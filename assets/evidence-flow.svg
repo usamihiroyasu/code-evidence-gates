@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440" role="img" aria-labelledby="evidence-flow-title evidence-flow-desc">
+  <title id="evidence-flow-title">Saved-record evidence reconstruction</title>
+  <desc id="evidence-flow-desc">Saved candidate records are read in two complementary ways: admission with pinned-suite labels, and task-level selection with abstention. Both feed reconstructed counts and diagnostics for selected paper tables. Reconstruction reads recorded labels; it does not rerun models, candidate programs or reference programs, and does not independently revalidate those labels.</desc>
+  <defs>
+    <marker id="flow-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 1 1 L 9 5 L 1 9 Z" fill="#72839a"/>
+    </marker>
+  </defs>
+
+  <rect width="1100" height="440" rx="22" fill="#f7f9fc"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="36" y="34" fill="#596b82" font-size="12" font-weight="700" letter-spacing="1.5">SAVED-RECORD RECONSTRUCTION</text>
+    <text x="36" y="70" fill="#15243e" font-size="28" font-weight="700">From recorded outcomes to paper-facing evidence</text>
+    <text x="36" y="97" fill="#53657c" font-size="16">Two complementary views of the same saved candidate pools</text>
+
+    <g fill="none" stroke="#72839a" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M 306 237 H 345 V 174 H 379" marker-end="url(#flow-arrow)"/>
+      <path d="M 345 237 V 293 H 379" marker-end="url(#flow-arrow)"/>
+      <path d="M 712 174 H 753 V 237 H 783" marker-end="url(#flow-arrow)"/>
+      <path d="M 712 293 H 753 V 237"/>
+    </g>
+
+    <rect x="36" y="162" width="270" height="150" rx="14" fill="#ffffff" stroke="#d9e1ec"/>
+    <rect x="36" y="181" width="5" height="112" rx="2.5" fill="#253c60"/>
+    <text x="60" y="204" fill="#15243e" font-size="23" font-weight="700">Saved candidate</text>
+    <text x="60" y="233" fill="#15243e" font-size="23" font-weight="700">records</text>
+    <text x="60" y="270" fill="#53657c" font-size="14">Typed outcomes and provenance</text>
+
+    <rect x="388" y="128" width="324" height="92" rx="14" fill="#eaf5f4" stroke="#bddbd7"/>
+    <rect x="388" y="145" width="5" height="58" rx="2.5" fill="#096d70"/>
+    <text x="412" y="166" fill="#164f56" font-size="21" font-weight="700">Admission +</text>
+    <text x="412" y="193" fill="#164f56" font-size="21" font-weight="700">pinned-suite labels</text>
+
+    <rect x="388" y="247" width="324" height="92" rx="14" fill="#fff4df" stroke="#e6d4ac"/>
+    <rect x="388" y="264" width="5" height="58" rx="2.5" fill="#a66a0a"/>
+    <text x="412" y="285" fill="#714c13" font-size="21" font-weight="700">Task-level selection</text>
+    <text x="412" y="312" fill="#714c13" font-size="21" font-weight="700">+ abstention</text>
+
+    <rect x="792" y="162" width="272" height="150" rx="14" fill="#ffffff" stroke="#d9e1ec"/>
+    <rect x="792" y="181" width="5" height="112" rx="2.5" fill="#253c60"/>
+    <text x="816" y="204" fill="#15243e" font-size="22" font-weight="700">Reconstructed</text>
+    <text x="816" y="233" fill="#15243e" font-size="20" font-weight="700">counts and diagnostics</text>
+    <text x="816" y="270" fill="#53657c" font-size="14">Selected recorded summaries</text>
+
+    <rect x="36" y="366" width="1028" height="43" rx="10" fill="#ffffff" stroke="#e0e6ef"/>
+    <text x="550" y="393" text-anchor="middle" fill="#253c60" font-size="18" font-weight="500">Saved records → reconstruction scripts → selected paper tables</text>
+    <text x="550" y="430" text-anchor="middle" fill="#53657c" font-size="13">No model or program re-execution. Saved labels are not independently revalidated.</text>
+  </g>
+</svg>
