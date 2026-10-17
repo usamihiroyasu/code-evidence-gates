@@ -1,0 +1,2266 @@
+{
+  "origin_mapping": [
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/121:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/121:sample:0",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/121:sample:0:original-exception:alias",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/121:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/121:sample:0",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/121:sample:0:original-exception:alias",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/121:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/121:sample:0",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/121:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/121:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/121:sample:0",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/121:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/2:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/2:sample:1",
+      "code_sha256": "901d902b3ce93681cef0113a99a669584c1a70dc42503ca4d60cc6aec1078523",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/2:sample:1:original-exception:alias",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/2:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/2:sample:1",
+      "code_sha256": "901d902b3ce93681cef0113a99a669584c1a70dc42503ca4d60cc6aec1078523",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/2:sample:1:original-exception:alias",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/2:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/2:sample:1",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/2:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/2:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/2:sample:1",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/2:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/2:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/2:sample:0",
+      "code_sha256": "cd36de356c1914589c625dbb8392e9ab3e492211aed52dfe25c84bd15da52c42",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/2:sample:0:original-exception:alias",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/2:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/2:sample:0",
+      "code_sha256": "cd36de356c1914589c625dbb8392e9ab3e492211aed52dfe25c84bd15da52c42",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/2:sample:0:original-exception:alias",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/2:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/2:sample:0",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/2:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/2:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/2:sample:0",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/2:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/138:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/138:sample:1",
+      "code_sha256": "5ea40680a2fec8303546cb67fddff22cee1736f3d16315029ac21620de79e3d2",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/138:sample:1:original-exception:alias",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/138:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/138:sample:1",
+      "code_sha256": "5ea40680a2fec8303546cb67fddff22cee1736f3d16315029ac21620de79e3d2",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/138:sample:1:original-exception:alias",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/138:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/138:sample:1",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/138:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/138:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/138:sample:1",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/138:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/84:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/84:sample:0",
+      "code_sha256": "8b25ef445327fd3914ef83e45c280b8b061f92d15ddf8b901df91eba741eb8e3",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/84:sample:0:original-exception:alias",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/84:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/84:sample:0",
+      "code_sha256": "8b25ef445327fd3914ef83e45c280b8b061f92d15ddf8b901df91eba741eb8e3",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/84:sample:0:original-exception:alias",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/84:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/84:sample:0",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/84:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/84:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/84:sample:0",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/84:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/50:sample:2:original-exception:alias:paired-on",
+      "case_id": "HumanEval/50:sample:2",
+      "code_sha256": "0e667f90adff903cc0ecc0e555186ff1abe63d7c73cc7b4729f6212e3ba0f63b",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/50:sample:2:original-exception:alias",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/50:sample:2:original-exception:alias:paired-off",
+      "case_id": "HumanEval/50:sample:2",
+      "code_sha256": "0e667f90adff903cc0ecc0e555186ff1abe63d7c73cc7b4729f6212e3ba0f63b",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/50:sample:2:original-exception:alias",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/50:sample:2:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/50:sample:2",
+      "code_sha256": "bb887ed15ca7308e4acde60e820972373d6a6337a75dc16a57dcebcd2ca2afa3",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/50:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/50:sample:2:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/50:sample:2",
+      "code_sha256": "bb887ed15ca7308e4acde60e820972373d6a6337a75dc16a57dcebcd2ca2afa3",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/50:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/43:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/43:sample:1",
+      "code_sha256": "dfe8b2df548dc444a1f9922cffeeb86d96aab499d610b8ac9736dfd9aa59d871",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/43:sample:1:original-exception:alias",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/43:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/43:sample:1",
+      "code_sha256": "dfe8b2df548dc444a1f9922cffeeb86d96aab499d610b8ac9736dfd9aa59d871",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/43:sample:1:original-exception:alias",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/43:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/43:sample:1",
+      "code_sha256": "491cee2de0c7a2872734a08887181701e9fa55cd883de2e413983f2370ea0856",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/43:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/43:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/43:sample:1",
+      "code_sha256": "491cee2de0c7a2872734a08887181701e9fa55cd883de2e413983f2370ea0856",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/43:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/84:sample:2:original-exception:alias:paired-on",
+      "case_id": "HumanEval/84:sample:2",
+      "code_sha256": "94c14b941b160a78df2ef32cc5260f3482a093941ea6c11236f3498640a4af9a",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/84:sample:2:original-exception:alias",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/84:sample:2:original-exception:alias:paired-off",
+      "case_id": "HumanEval/84:sample:2",
+      "code_sha256": "94c14b941b160a78df2ef32cc5260f3482a093941ea6c11236f3498640a4af9a",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/84:sample:2:original-exception:alias",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/84:sample:2:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/84:sample:2",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/84:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/84:sample:2:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/84:sample:2",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/84:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/121:sample:2:original-exception:alias:paired-on",
+      "case_id": "HumanEval/121:sample:2",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/121:sample:2:original-exception:alias",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/121:sample:2:original-exception:alias:paired-off",
+      "case_id": "HumanEval/121:sample:2",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/121:sample:2:original-exception:alias",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/121:sample:2:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/121:sample:2",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/121:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/121:sample:2:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/121:sample:2",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/121:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/81:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/81:sample:0",
+      "code_sha256": "bd355027ecdc6075d4b9294cc3bd051284f93253b6a1b30eb6ad9cd3e1434816",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/81:sample:0:original-exception:alias",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/81:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/81:sample:0",
+      "code_sha256": "bd355027ecdc6075d4b9294cc3bd051284f93253b6a1b30eb6ad9cd3e1434816",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/81:sample:0:original-exception:alias",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/81:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/81:sample:0",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/81:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/81:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/81:sample:0",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/81:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/74:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/74:sample:0",
+      "code_sha256": "f4baa374dbc9d65cbf318c54cab53cc4bbee27942b17b7a23ce00e3fe037b519",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/74:sample:0:original-exception:alias",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/74:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/74:sample:0",
+      "code_sha256": "f4baa374dbc9d65cbf318c54cab53cc4bbee27942b17b7a23ce00e3fe037b519",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/74:sample:0:original-exception:alias",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/74:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/74:sample:0",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/74:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/74:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/74:sample:0",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/74:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/156:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/156:sample:0",
+      "code_sha256": "e0d8aa02668c28e29ed0529c6440be8416d7886c832acaf23fe4bec1bf939c2e",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/156:sample:0:original-exception:alias",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/156:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/156:sample:0",
+      "code_sha256": "e0d8aa02668c28e29ed0529c6440be8416d7886c832acaf23fe4bec1bf939c2e",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/156:sample:0:original-exception:alias",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/156:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/156:sample:0",
+      "code_sha256": "6d644cb58bb5aec285a1424bb44d0ce9d3a7cf20d297bfd0996a80d6adb9731f",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/156:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/156:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/156:sample:0",
+      "code_sha256": "6d644cb58bb5aec285a1424bb44d0ce9d3a7cf20d297bfd0996a80d6adb9731f",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/156:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/138:sample:0:original-exception:alias:paired-on",
+      "case_id": "HumanEval/138:sample:0",
+      "code_sha256": "9516488fdf02a7c22c8d911b56bdf5b61f8d2d2d3bfc42e5dd25db3b8e653025",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/138:sample:0:original-exception:alias",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/138:sample:0:original-exception:alias:paired-off",
+      "case_id": "HumanEval/138:sample:0",
+      "code_sha256": "9516488fdf02a7c22c8d911b56bdf5b61f8d2d2d3bfc42e5dd25db3b8e653025",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/138:sample:0:original-exception:alias",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/138:sample:0:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/138:sample:0",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/138:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/138:sample:0:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/138:sample:0",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/138:sample:0:canonical-exception:alias",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/106:sample:3:original-exception:alias:paired-on",
+      "case_id": "HumanEval/106:sample:3",
+      "code_sha256": "add41ae939ced04987a3f25e7cfc1ecdfccc73fc8514990b657d51aeb7d9f1a3",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/106:sample:3:original-exception:alias",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/106:sample:3:original-exception:alias:paired-off",
+      "case_id": "HumanEval/106:sample:3",
+      "code_sha256": "add41ae939ced04987a3f25e7cfc1ecdfccc73fc8514990b657d51aeb7d9f1a3",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/106:sample:3:original-exception:alias",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/106:sample:3:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/106:sample:3",
+      "code_sha256": "0446fa4caae44cf9378d5868073ba36b9317ddaf0500f5dccca5339d17e499b0",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/106:sample:3:canonical-exception:alias",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/106:sample:3:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/106:sample:3",
+      "code_sha256": "0446fa4caae44cf9378d5868073ba36b9317ddaf0500f5dccca5339d17e499b0",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/106:sample:3:canonical-exception:alias",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/157:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/157:sample:1",
+      "code_sha256": "ee96887964e218763e62c3afba073645900dda97c45fc1808f8fb37edc399a14",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/157:sample:1:original-exception:alias",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/157:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/157:sample:1",
+      "code_sha256": "ee96887964e218763e62c3afba073645900dda97c45fc1808f8fb37edc399a14",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/157:sample:1:original-exception:alias",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/157:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/157:sample:1",
+      "code_sha256": "8ad3e578143956b5dfb09b000e31d9f450595adc86a22eb4aad618e182dd95ec",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/157:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/157:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/157:sample:1",
+      "code_sha256": "8ad3e578143956b5dfb09b000e31d9f450595adc86a22eb4aad618e182dd95ec",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/157:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/47:sample:2:original-exception:alias:paired-on",
+      "case_id": "HumanEval/47:sample:2",
+      "code_sha256": "178a6541d8597a82b5270fb2e5afb042899becc108e1dc6836a39c3a4aa1143a",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/47:sample:2:original-exception:alias",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/47:sample:2:original-exception:alias:paired-off",
+      "case_id": "HumanEval/47:sample:2",
+      "code_sha256": "178a6541d8597a82b5270fb2e5afb042899becc108e1dc6836a39c3a4aa1143a",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/47:sample:2:original-exception:alias",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/47:sample:2:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/47:sample:2",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/47:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/47:sample:2:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/47:sample:2",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/47:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/150:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/150:sample:1",
+      "code_sha256": "6db0c55a9d1afdc08d9476ffd6b61cf0cab10cce2d785854cdd305e21242fda2",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/150:sample:1:original-exception:alias",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/150:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/150:sample:1",
+      "code_sha256": "6db0c55a9d1afdc08d9476ffd6b61cf0cab10cce2d785854cdd305e21242fda2",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/150:sample:1:original-exception:alias",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/150:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/150:sample:1",
+      "code_sha256": "22605ab9c4552f5f5b1d8f490c5bae79a1eae81bd88f2b84a13e2ad04ad87b77",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/150:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/150:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/150:sample:1",
+      "code_sha256": "22605ab9c4552f5f5b1d8f490c5bae79a1eae81bd88f2b84a13e2ad04ad87b77",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/150:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/67:sample:2:original-exception:alias:paired-on",
+      "case_id": "HumanEval/67:sample:2",
+      "code_sha256": "1ffcd2ee1c949c676e59d0f2f565ba6b0eb70d44eb529e56a766cef21f7b9228",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/67:sample:2:original-exception:alias",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/67:sample:2:original-exception:alias:paired-off",
+      "case_id": "HumanEval/67:sample:2",
+      "code_sha256": "1ffcd2ee1c949c676e59d0f2f565ba6b0eb70d44eb529e56a766cef21f7b9228",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/67:sample:2:original-exception:alias",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/67:sample:2:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/67:sample:2",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/67:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/67:sample:2:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/67:sample:2",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/67:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/67:sample:3:original-exception:alias:paired-on",
+      "case_id": "HumanEval/67:sample:3",
+      "code_sha256": "e1638b8f5b66e759468d8c0863f2f57bc72a7216a591bcc48481f1eb30ed75f4",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/67:sample:3:original-exception:alias",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/67:sample:3:original-exception:alias:paired-off",
+      "case_id": "HumanEval/67:sample:3",
+      "code_sha256": "e1638b8f5b66e759468d8c0863f2f57bc72a7216a591bcc48481f1eb30ed75f4",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/67:sample:3:original-exception:alias",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/67:sample:3:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/67:sample:3",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/67:sample:3:canonical-exception:alias",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/67:sample:3:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/67:sample:3",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/67:sample:3:canonical-exception:alias",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/81:sample:3:original-exception:alias:paired-on",
+      "case_id": "HumanEval/81:sample:3",
+      "code_sha256": "52b7a69d2aa89e764d6f8b97ac0e4990cb20f76b58bc53eb316dca5ccef5ede6",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/81:sample:3:original-exception:alias",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/81:sample:3:original-exception:alias:paired-off",
+      "case_id": "HumanEval/81:sample:3",
+      "code_sha256": "52b7a69d2aa89e764d6f8b97ac0e4990cb20f76b58bc53eb316dca5ccef5ede6",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/81:sample:3:original-exception:alias",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/81:sample:3:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/81:sample:3",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/81:sample:3:canonical-exception:alias",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/81:sample:3:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/81:sample:3",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/81:sample:3:canonical-exception:alias",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/6:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/6:sample:1",
+      "code_sha256": "ad1b8d8bc9d2f48a603f2561646846be2b7a326997ac95ed96a0fd539857d7df",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/6:sample:1:original-exception:alias",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/6:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/6:sample:1",
+      "code_sha256": "ad1b8d8bc9d2f48a603f2561646846be2b7a326997ac95ed96a0fd539857d7df",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/6:sample:1:original-exception:alias",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/6:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/6:sample:1",
+      "code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/6:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/6:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/6:sample:1",
+      "code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/6:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/74:sample:2:original-exception:alias:paired-on",
+      "case_id": "HumanEval/74:sample:2",
+      "code_sha256": "24a4995cbf76558c703e881d8254a5f37dee96b0fb68088fd8b6ff2a3bbae603",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/74:sample:2:original-exception:alias",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/74:sample:2:original-exception:alias:paired-off",
+      "case_id": "HumanEval/74:sample:2",
+      "code_sha256": "24a4995cbf76558c703e881d8254a5f37dee96b0fb68088fd8b6ff2a3bbae603",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/74:sample:2:original-exception:alias",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/74:sample:2:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/74:sample:2",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/74:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/74:sample:2:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/74:sample:2",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/74:sample:2:canonical-exception:alias",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/111:sample:1:original-exception:alias:paired-on",
+      "case_id": "HumanEval/111:sample:1",
+      "code_sha256": "025b2fbb57151adeb4170e4b5ee7ad1a6be5d7e62f82666e0df26e5fd0a23c3e",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/111:sample:1:original-exception:alias",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/111:sample:1:original-exception:alias:paired-off",
+      "case_id": "HumanEval/111:sample:1",
+      "code_sha256": "025b2fbb57151adeb4170e4b5ee7ad1a6be5d7e62f82666e0df26e5fd0a23c3e",
+      "config_id": "flash-original",
+      "parent_call_id": "HumanEval/111:sample:1:original-exception:alias",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    },
+    {
+      "alias_condition": "on",
+      "call_id": "HumanEval/111:sample:1:canonical-exception:alias:paired-on",
+      "case_id": "HumanEval/111:sample:1",
+      "code_sha256": "d4bf1316a9ab7782a3e71538e72e3d5f9e13610d21f57acd04af381b12678ed2",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/111:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    },
+    {
+      "alias_condition": "off",
+      "call_id": "HumanEval/111:sample:1:canonical-exception:alias:paired-off",
+      "case_id": "HumanEval/111:sample:1",
+      "code_sha256": "d4bf1316a9ab7782a3e71538e72e3d5f9e13610d21f57acd04af381b12678ed2",
+      "config_id": "flash-canonical",
+      "parent_call_id": "HumanEval/111:sample:1:canonical-exception:alias",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    }
+  ],
+  "records": [
+    {
+      "call_id": "fixture:alias-solution:paired-control",
+      "code_sha256": "b359e7bebad3963d9ad0eb35725f91c605abd83491fdea151d9b938051d995c0",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": true,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "75a8e2d28d6923cf0d53b27a0c9c49a93709c582dc796ba56d04a8df3ed96dde",
+      "task_id": "fixture:alias-solution"
+    },
+    {
+      "call_id": "fixture:alias-total_match_module:paired-control",
+      "code_sha256": "b359e7bebad3963d9ad0eb35725f91c605abd83491fdea151d9b938051d995c0",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": true,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "a0b0077439b2eb15e03144ba0f287220759bd016444fea2a258939d4757c331f",
+      "task_id": "fixture:alias-total_match_module"
+    },
+    {
+      "call_id": "fixture:alias-your_module:paired-control",
+      "code_sha256": "b359e7bebad3963d9ad0eb35725f91c605abd83491fdea151d9b938051d995c0",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": true,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "a04ce62d54653561bdc78cb96cb4a2302c6170a0ca12134dc0e833676f6341e0",
+      "task_id": "fixture:alias-your_module"
+    },
+    {
+      "call_id": "fixture:noalias:paired-control",
+      "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": true,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "1163c700cb56c3227742a6c8595c675f8253d6b5c7823ec8fe02fa6c4ee46139",
+      "task_id": "fixture:noalias"
+    },
+    {
+      "call_id": "fixture:assertion:paired-control",
+      "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "class": "AssertionError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": true,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "31c87c12fc99a7fc1a62a03621c62e4dd5268b313a998758d55887d33b9b72e3",
+      "task_id": "fixture:assertion"
+    },
+    {
+      "call_id": "fixture:exit:paired-control",
+      "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "class": "SystemExit",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": true,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "e71ab2db4593c18a4d8c5af14673a738ad07364aee91162fc990e57faacf918b",
+      "task_id": "fixture:exit"
+    },
+    {
+      "call_id": "fixture:timeout:paired-control",
+      "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "fixture",
+      "exception_result": {
+        "class": "TimeoutException",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": true,
+      "self_exec_status": "TIMEOUT",
+      "self_tests_sha256": "8529cb2d756371570b90ce527fb414341661dd299cd1bd4fa82fdcaa39ec8fa5",
+      "task_id": "fixture:timeout"
+    },
+    {
+      "call_id": "HumanEval/121:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/121:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/121:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/121:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "6037fb7f66e17c9098035c1cdc83a58f35577f7cc9441183049c4b28898c6fd6",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/2:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "901d902b3ce93681cef0113a99a669584c1a70dc42503ca4d60cc6aec1078523",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "901d902b3ce93681cef0113a99a669584c1a70dc42503ca4d60cc6aec1078523",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "bb220646537eedf770570b1819f204c020a6f34a6024e35212b0b9626c2cb709",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "cd36de356c1914589c625dbb8392e9ab3e492211aed52dfe25c84bd15da52c42",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/2:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "cd36de356c1914589c625dbb8392e9ab3e492211aed52dfe25c84bd15da52c42",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "20e1592de4860fcb72634c848e75ac6ef28aeaa1f6e0228923b8d38c26acd411",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "call_id": "HumanEval/138:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "5ea40680a2fec8303546cb67fddff22cee1736f3d16315029ac21620de79e3d2",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/138:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "5ea40680a2fec8303546cb67fddff22cee1736f3d16315029ac21620de79e3d2",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/138:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/138:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "7d52cabdf0be294415ab458f2cb0e1c14b563174f3652ea1ec27ce008d0e3d2b",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/84:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "8b25ef445327fd3914ef83e45c280b8b061f92d15ddf8b901df91eba741eb8e3",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/84:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/84:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/84:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "8b25ef445327fd3914ef83e45c280b8b061f92d15ddf8b901df91eba741eb8e3",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "fadd8981c9ace72da0047847491d98ec8884ca8f699f56b8fd74822110f9841c",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/50:sample:2:canonical-exception:alias:paired-off",
+      "code_sha256": "bb887ed15ca7308e4acde60e820972373d6a6337a75dc16a57dcebcd2ca2afa3",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "call_id": "HumanEval/50:sample:2:original-exception:alias:paired-off",
+      "code_sha256": "0e667f90adff903cc0ecc0e555186ff1abe63d7c73cc7b4729f6212e3ba0f63b",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "call_id": "HumanEval/50:sample:2:canonical-exception:alias:paired-on",
+      "code_sha256": "bb887ed15ca7308e4acde60e820972373d6a6337a75dc16a57dcebcd2ca2afa3",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "call_id": "HumanEval/50:sample:2:original-exception:alias:paired-on",
+      "code_sha256": "0e667f90adff903cc0ecc0e555186ff1abe63d7c73cc7b4729f6212e3ba0f63b",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "0677a5b68d9ae9ba2e103e8f64e1f2a7ea9ad220e41e291b56a9d39addf0afcd",
+      "task_id": "HumanEval/50"
+    },
+    {
+      "call_id": "HumanEval/43:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "491cee2de0c7a2872734a08887181701e9fa55cd883de2e413983f2370ea0856",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "call_id": "HumanEval/43:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "491cee2de0c7a2872734a08887181701e9fa55cd883de2e413983f2370ea0856",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "call_id": "HumanEval/43:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "dfe8b2df548dc444a1f9922cffeeb86d96aab499d610b8ac9736dfd9aa59d871",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "call_id": "HumanEval/43:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "dfe8b2df548dc444a1f9922cffeeb86d96aab499d610b8ac9736dfd9aa59d871",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "6f69ea32f7954318ac27504d32f98dac8ae354be2723ff3db81cfc69bd604c8d",
+      "task_id": "HumanEval/43"
+    },
+    {
+      "call_id": "HumanEval/84:sample:2:canonical-exception:alias:paired-off",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/84:sample:2:original-exception:alias:paired-on",
+      "code_sha256": "94c14b941b160a78df2ef32cc5260f3482a093941ea6c11236f3498640a4af9a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/84:sample:2:canonical-exception:alias:paired-on",
+      "code_sha256": "cafd8a8f3fca26759469abacc325cf1422cdb376c132a9627c5010e2d3a35dcc",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/84:sample:2:original-exception:alias:paired-off",
+      "code_sha256": "94c14b941b160a78df2ef32cc5260f3482a093941ea6c11236f3498640a4af9a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "c34c0cdec255bd48a71ce060fa574e5cc00e7b82af478a84aa0f7d5b2800e6a0",
+      "task_id": "HumanEval/84"
+    },
+    {
+      "call_id": "HumanEval/121:sample:2:canonical-exception:alias:paired-off",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/121:sample:2:original-exception:alias:paired-off",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/121:sample:2:canonical-exception:alias:paired-on",
+      "code_sha256": "42975455b820504765a9cfeb3afebe0cd5ff65dd638d6f9540008f1ce68f099e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/121:sample:2:original-exception:alias:paired-on",
+      "code_sha256": "a6955eee35ad53db253e64dcbabea41a6702240b8cbbd7a35cc417fecb764452",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "e3b188fe477bc5ed0141b27077eacde8c8e8d36e1ac3b01890f574554ba1965b",
+      "task_id": "HumanEval/121"
+    },
+    {
+      "call_id": "HumanEval/81:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/81:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/81:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "bd355027ecdc6075d4b9294cc3bd051284f93253b6a1b30eb6ad9cd3e1434816",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/81:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "bd355027ecdc6075d4b9294cc3bd051284f93253b6a1b30eb6ad9cd3e1434816",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "42ae42266fb68f887577c13df676bac64be3d5798094fe7d7d73928106169628",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/74:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "f4baa374dbc9d65cbf318c54cab53cc4bbee27942b17b7a23ce00e3fe037b519",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/74:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "f4baa374dbc9d65cbf318c54cab53cc4bbee27942b17b7a23ce00e3fe037b519",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/74:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/74:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "80100c5a05b63f158307fdd88683e9b80c17cc2067f1e4e98192185f5ee04a7d",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/156:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "e0d8aa02668c28e29ed0529c6440be8416d7886c832acaf23fe4bec1bf939c2e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "call_id": "HumanEval/156:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "6d644cb58bb5aec285a1424bb44d0ce9d3a7cf20d297bfd0996a80d6adb9731f",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "call_id": "HumanEval/156:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "6d644cb58bb5aec285a1424bb44d0ce9d3a7cf20d297bfd0996a80d6adb9731f",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "call_id": "HumanEval/156:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "e0d8aa02668c28e29ed0529c6440be8416d7886c832acaf23fe4bec1bf939c2e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "c003de2313d5c0c75a1d0da788da1c99fbd9947ab0c0859364cc590dc5384cf8",
+      "task_id": "HumanEval/156"
+    },
+    {
+      "call_id": "HumanEval/138:sample:0:original-exception:alias:paired-on",
+      "code_sha256": "9516488fdf02a7c22c8d911b56bdf5b61f8d2d2d3bfc42e5dd25db3b8e653025",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/138:sample:0:canonical-exception:alias:paired-on",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/138:sample:0:original-exception:alias:paired-off",
+      "code_sha256": "9516488fdf02a7c22c8d911b56bdf5b61f8d2d2d3bfc42e5dd25db3b8e653025",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/138:sample:0:canonical-exception:alias:paired-off",
+      "code_sha256": "2f9677a159251234c45ea24036e47830f2511e6cbc84195e79682402e611651b",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "eef46892aafbcfb8c1e7fcb006a78449cf1670c1059061c4f570518c09e8e357",
+      "task_id": "HumanEval/138"
+    },
+    {
+      "call_id": "HumanEval/106:sample:3:original-exception:alias:paired-on",
+      "code_sha256": "add41ae939ced04987a3f25e7cfc1ecdfccc73fc8514990b657d51aeb7d9f1a3",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "call_id": "HumanEval/106:sample:3:canonical-exception:alias:paired-on",
+      "code_sha256": "0446fa4caae44cf9378d5868073ba36b9317ddaf0500f5dccca5339d17e499b0",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "call_id": "HumanEval/106:sample:3:canonical-exception:alias:paired-off",
+      "code_sha256": "0446fa4caae44cf9378d5868073ba36b9317ddaf0500f5dccca5339d17e499b0",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "call_id": "HumanEval/106:sample:3:original-exception:alias:paired-off",
+      "code_sha256": "add41ae939ced04987a3f25e7cfc1ecdfccc73fc8514990b657d51aeb7d9f1a3",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "cac5b9e470a6d65bba134d9fe66b6105b5a5184abada902e500b2d103ab237f1",
+      "task_id": "HumanEval/106"
+    },
+    {
+      "call_id": "HumanEval/157:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "8ad3e578143956b5dfb09b000e31d9f450595adc86a22eb4aad618e182dd95ec",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "AssertionError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "call_id": "HumanEval/157:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "ee96887964e218763e62c3afba073645900dda97c45fc1808f8fb37edc399a14",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "call_id": "HumanEval/157:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "8ad3e578143956b5dfb09b000e31d9f450595adc86a22eb4aad618e182dd95ec",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "call_id": "HumanEval/157:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "ee96887964e218763e62c3afba073645900dda97c45fc1808f8fb37edc399a14",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "ec5c07230a67e50a369798d7b3b44239dc4a33c753e5c325ea5be0a9201e9f6e",
+      "task_id": "HumanEval/157"
+    },
+    {
+      "call_id": "HumanEval/47:sample:2:canonical-exception:alias:paired-off",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "call_id": "HumanEval/47:sample:2:canonical-exception:alias:paired-on",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "AssertionError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "call_id": "HumanEval/47:sample:2:original-exception:alias:paired-off",
+      "code_sha256": "178a6541d8597a82b5270fb2e5afb042899becc108e1dc6836a39c3a4aa1143a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "call_id": "HumanEval/47:sample:2:original-exception:alias:paired-on",
+      "code_sha256": "178a6541d8597a82b5270fb2e5afb042899becc108e1dc6836a39c3a4aa1143a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "AssertionError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "8fc13e578281edc7e34cf97092c33e572222b988b714abe25b4814793f35efbd",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "call_id": "HumanEval/150:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "6db0c55a9d1afdc08d9476ffd6b61cf0cab10cce2d785854cdd305e21242fda2",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "call_id": "HumanEval/150:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "22605ab9c4552f5f5b1d8f490c5bae79a1eae81bd88f2b84a13e2ad04ad87b77",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "call_id": "HumanEval/150:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "6db0c55a9d1afdc08d9476ffd6b61cf0cab10cce2d785854cdd305e21242fda2",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "call_id": "HumanEval/150:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "22605ab9c4552f5f5b1d8f490c5bae79a1eae81bd88f2b84a13e2ad04ad87b77",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "8b662464d24fe68572f130cd24736cc1d83a958a6d9318be50be8c8537e625a9",
+      "task_id": "HumanEval/150"
+    },
+    {
+      "call_id": "HumanEval/67:sample:2:canonical-exception:alias:paired-on",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:2:original-exception:alias:paired-off",
+      "code_sha256": "1ffcd2ee1c949c676e59d0f2f565ba6b0eb70d44eb529e56a766cef21f7b9228",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:2:canonical-exception:alias:paired-off",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:2:original-exception:alias:paired-on",
+      "code_sha256": "1ffcd2ee1c949c676e59d0f2f565ba6b0eb70d44eb529e56a766cef21f7b9228",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "fd36ca3e05f169cfbcf9477e3a89032634c97ef7bccb138fab65b832b89ac417",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:3:canonical-exception:alias:paired-off",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:3:original-exception:alias:paired-off",
+      "code_sha256": "e1638b8f5b66e759468d8c0863f2f57bc72a7216a591bcc48481f1eb30ed75f4",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:3:original-exception:alias:paired-on",
+      "code_sha256": "e1638b8f5b66e759468d8c0863f2f57bc72a7216a591bcc48481f1eb30ed75f4",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/67:sample:3:canonical-exception:alias:paired-on",
+      "code_sha256": "aac4d2bb24d2ab86cb35f22548828e248e7093d5fe01ff091a638d42af752232",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "7c3d39e46f5efd55b6e0ddcfc66b7e5f0de2f6eb1718ff1da25a9854dad792a7",
+      "task_id": "HumanEval/67"
+    },
+    {
+      "call_id": "HumanEval/81:sample:3:canonical-exception:alias:paired-on",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/81:sample:3:original-exception:alias:paired-on",
+      "code_sha256": "52b7a69d2aa89e764d6f8b97ac0e4990cb20f76b58bc53eb316dca5ccef5ede6",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/81:sample:3:canonical-exception:alias:paired-off",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/81:sample:3:original-exception:alias:paired-off",
+      "code_sha256": "52b7a69d2aa89e764d6f8b97ac0e4990cb20f76b58bc53eb316dca5ccef5ede6",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "4b320ae622873f239dde0d6511c932093120e88d634d2300c0faeb2f01041218",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "call_id": "HumanEval/6:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "ad1b8d8bc9d2f48a603f2561646846be2b7a326997ac95ed96a0fd539857d7df",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "call_id": "HumanEval/6:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "call_id": "HumanEval/6:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "call_id": "HumanEval/6:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "ad1b8d8bc9d2f48a603f2561646846be2b7a326997ac95ed96a0fd539857d7df",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "d6542191e64c4bb183bb449dfe5a0984cf4fe0ba72dab25366082685ff323f6b",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "call_id": "HumanEval/74:sample:2:canonical-exception:alias:paired-off",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/74:sample:2:original-exception:alias:paired-on",
+      "code_sha256": "24a4995cbf76558c703e881d8254a5f37dee96b0fb68088fd8b6ff2a3bbae603",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/74:sample:2:original-exception:alias:paired-off",
+      "code_sha256": "24a4995cbf76558c703e881d8254a5f37dee96b0fb68088fd8b6ff2a3bbae603",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/74:sample:2:canonical-exception:alias:paired-on",
+      "code_sha256": "28e7231bffdfa4337cc61830d1e4a0cf16cbbc82c360ae880df50ef7f557b52a",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "a101cb5a938dcc26a3a3a1d18660b219e29bf4b5c600f0c896d186b15b9851ce",
+      "task_id": "HumanEval/74"
+    },
+    {
+      "call_id": "HumanEval/111:sample:1:original-exception:alias:paired-off",
+      "code_sha256": "025b2fbb57151adeb4170e4b5ee7ad1a6be5d7e62f82666e0df26e5fd0a23c3e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    },
+    {
+      "call_id": "HumanEval/111:sample:1:canonical-exception:alias:paired-off",
+      "code_sha256": "d4bf1316a9ab7782a3e71538e72e3d5f9e13610d21f57acd04af381b12678ed2",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "class": "ModuleNotFoundError",
+        "kind": "EXCEPTION"
+      },
+      "is_fixture": false,
+      "self_exec_status": "FAIL",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    },
+    {
+      "call_id": "HumanEval/111:sample:1:canonical-exception:alias:paired-on",
+      "code_sha256": "d4bf1316a9ab7782a3e71538e72e3d5f9e13610d21f57acd04af381b12678ed2",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-canonical",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    },
+    {
+      "call_id": "HumanEval/111:sample:1:original-exception:alias:paired-on",
+      "code_sha256": "025b2fbb57151adeb4170e4b5ee7ad1a6be5d7e62f82666e0df26e5fd0a23c3e",
+      "condition": "explicit_namespace_module_alias",
+      "config_id": "flash-original",
+      "exception_result": {
+        "kind": "PASS"
+      },
+      "is_fixture": false,
+      "self_exec_status": "PASS",
+      "self_tests_sha256": "f0b8305b65e8513fbba23142218f4008a03910a2b3e13a602efda0689fa025d3",
+      "task_id": "HumanEval/111"
+    }
+  ]
+}

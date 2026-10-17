@@ -1,0 +1,184 @@
+{
+  "source_bindings": [
+    {
+      "sha256": "e5730b1a8374cb56d2fc93d890900def8a22d2fc484338ba2436f55553d1f0db",
+      "source_role": "historical_full_contract_analysis"
+    },
+    {
+      "sha256": "1ae9caffd04fea27ef481dee2548b14d17722e0ac0ab09f7d5f455587dd3ed45",
+      "source_role": "historical_order_sensitivity_analysis"
+    }
+  ],
+  "table_3": {
+    "v11": {
+      "flash": {
+        "A9": {
+          "abstentions": 1,
+          "admitted": 83,
+          "admitted_suite_nonpass": 4,
+          "excluded_suite_pass": 34,
+          "first_nonpass": 2,
+          "first_pass": 29,
+          "planned": 128,
+          "uniform_expected_pass": "59/2"
+        },
+        "A9*": {
+          "abstentions": 1,
+          "admitted": 98,
+          "admitted_suite_nonpass": 5,
+          "excluded_suite_pass": 20,
+          "first_nonpass": 2,
+          "first_pass": 29,
+          "planned": 128,
+          "uniform_expected_pass": "88/3"
+        }
+      },
+      "gpt-oss": {
+        "A9": {
+          "abstentions": 2,
+          "admitted": 107,
+          "admitted_suite_nonpass": 9,
+          "excluded_suite_pass": 14,
+          "first_nonpass": 3,
+          "first_pass": 27,
+          "planned": 128,
+          "uniform_expected_pass": "109/4"
+        },
+        "A9*": {
+          "abstentions": 2,
+          "admitted": 107,
+          "admitted_suite_nonpass": 9,
+          "excluded_suite_pass": 14,
+          "first_nonpass": 3,
+          "first_pass": 27,
+          "planned": 128,
+          "uniform_expected_pass": "109/4"
+        }
+      }
+    },
+    "v9": {
+      "flash": {
+        "A9": {
+          "abstentions": 2,
+          "admitted": 80,
+          "admitted_suite_nonpass": 4,
+          "excluded_suite_pass": 43,
+          "first_nonpass": 1,
+          "first_pass": 29,
+          "planned": 128,
+          "uniform_expected_pass": "29"
+        },
+        "A9*": {
+          "abstentions": 2,
+          "admitted": 100,
+          "admitted_suite_nonpass": 4,
+          "excluded_suite_pass": 23,
+          "first_nonpass": 1,
+          "first_pass": 29,
+          "planned": 128,
+          "uniform_expected_pass": "29"
+        }
+      },
+      "gpt-oss": {
+        "A9": {
+          "abstentions": 5,
+          "admitted": 100,
+          "admitted_suite_nonpass": 7,
+          "excluded_suite_pass": 20,
+          "first_nonpass": 3,
+          "first_pass": 24,
+          "planned": 128,
+          "uniform_expected_pass": "49/2"
+        },
+        "A9*": {
+          "abstentions": 5,
+          "admitted": 100,
+          "admitted_suite_nonpass": 7,
+          "excluded_suite_pass": 20,
+          "first_nonpass": 3,
+          "first_pass": 24,
+          "planned": 128,
+          "uniform_expected_pass": "49/2"
+        }
+      }
+    }
+  },
+  "table_9": {
+    "v11": {
+      "flash": {
+        "A9>A9*": {
+          "orders_with_changed_pass_total": 4,
+          "pass_delta_range": [
+            -1,
+            0
+          ],
+          "uniform_order_expected_pass_delta": "-1/6"
+        },
+        "C9>A9": {
+          "orders_with_changed_pass_total": 15,
+          "pass_delta_range": [
+            0,
+            2
+          ],
+          "uniform_order_expected_pass_delta": "3/4"
+        }
+      },
+      "gpt-oss": {
+        "A9>A9*": {
+          "orders_with_changed_pass_total": 0,
+          "pass_delta_range": [
+            0,
+            0
+          ],
+          "uniform_order_expected_pass_delta": "0"
+        },
+        "C9>A9": {
+          "orders_with_changed_pass_total": 24,
+          "pass_delta_range": [
+            -1,
+            -1
+          ],
+          "uniform_order_expected_pass_delta": "-1"
+        }
+      }
+    },
+    "v9": {
+      "flash": {
+        "A9>A9*": {
+          "orders_with_changed_pass_total": 0,
+          "pass_delta_range": [
+            0,
+            0
+          ],
+          "uniform_order_expected_pass_delta": "0"
+        },
+        "C9>A9": {
+          "orders_with_changed_pass_total": 24,
+          "pass_delta_range": [
+            -2,
+            -2
+          ],
+          "uniform_order_expected_pass_delta": "-2"
+        }
+      },
+      "gpt-oss": {
+        "A9>A9*": {
+          "orders_with_changed_pass_total": 0,
+          "pass_delta_range": [
+            0,
+            0
+          ],
+          "uniform_order_expected_pass_delta": "0"
+        },
+        "C9>A9": {
+          "orders_with_changed_pass_total": 24,
+          "pass_delta_range": [
+            -5,
+            -3
+          ],
+          "uniform_order_expected_pass_delta": "-15/4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "alias_names": [
+      "solution"
+    ],
+    "call_id": "fixture:alias-solution:full-contract",
+    "code_sha256": "b359e7bebad3963d9ad0eb35725f91c605abd83491fdea151d9b938051d995c0",
+    "config_id": "fixture",
+    "expected_result": {
+      "kind": "PASS"
+    },
+    "self_tests_sha256": "75a8e2d28d6923cf0d53b27a0c9c49a93709c582dc796ba56d04a8df3ed96dde",
+    "task_id": "fixture:alias-solution"
+  },
+  {
+    "alias_names": [
+      "total_match_module"
+    ],
+    "call_id": "fixture:alias-total_match_module:full-contract",
+    "code_sha256": "b359e7bebad3963d9ad0eb35725f91c605abd83491fdea151d9b938051d995c0",
+    "config_id": "fixture",
+    "expected_result": {
+      "kind": "PASS"
+    },
+    "self_tests_sha256": "a0b0077439b2eb15e03144ba0f287220759bd016444fea2a258939d4757c331f",
+    "task_id": "fixture:alias-total_match_module"
+  },
+  {
+    "alias_names": [
+      "your_module"
+    ],
+    "call_id": "fixture:alias-your_module:full-contract",
+    "code_sha256": "b359e7bebad3963d9ad0eb35725f91c605abd83491fdea151d9b938051d995c0",
+    "config_id": "fixture",
+    "expected_result": {
+      "kind": "PASS"
+    },
+    "self_tests_sha256": "a04ce62d54653561bdc78cb96cb4a2302c6170a0ca12134dc0e833676f6341e0",
+    "task_id": "fixture:alias-your_module"
+  },
+  {
+    "alias_names": [],
+    "call_id": "fixture:noalias:full-contract",
+    "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+    "config_id": "fixture",
+    "expected_result": {
+      "class": "ModuleNotFoundError",
+      "kind": "EXCEPTION"
+    },
+    "self_tests_sha256": "1163c700cb56c3227742a6c8595c675f8253d6b5c7823ec8fe02fa6c4ee46139",
+    "task_id": "fixture:noalias"
+  },
+  {
+    "alias_names": [
+      "solution"
+    ],
+    "call_id": "fixture:assertion:full-contract",
+    "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+    "config_id": "fixture",
+    "expected_result": {
+      "class": "AssertionError",
+      "kind": "EXCEPTION"
+    },
+    "self_tests_sha256": "31c87c12fc99a7fc1a62a03621c62e4dd5268b313a998758d55887d33b9b72e3",
+    "task_id": "fixture:assertion"
+  },
+  {
+    "alias_names": [
+      "solution"
+    ],
+    "call_id": "fixture:exit:full-contract",
+    "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+    "config_id": "fixture",
+    "expected_result": {
+      "class": "SystemExit",
+      "kind": "EXCEPTION"
+    },
+    "self_tests_sha256": "e71ab2db4593c18a4d8c5af14673a738ad07364aee91162fc990e57faacf918b",
+    "task_id": "fixture:exit"
+  },
+  {
+    "alias_names": [
+      "solution"
+    ],
+    "call_id": "fixture:timeout:full-contract",
+    "code_sha256": "04be469ebd1d40edfb2556dd3eb4d604c7ec5a77e5d162bd30d41b0e538bb390",
+    "config_id": "fixture",
+    "expected_result": {
+      "class": "TimeoutException",
+      "kind": "EXCEPTION"
+    },
+    "self_tests_sha256": "8529cb2d756371570b90ce527fb414341661dd299cd1bd4fa82fdcaa39ec8fa5",
+    "task_id": "fixture:timeout"
+  }
+]

@@ -1,0 +1,18 @@
+Source attribution and upstream notices
+
+HumanEval: https://github.com/openai/human-eval
+  Retained MIT license: rights/HumanEval_LICENSE.txt.
+EvalPlus: https://github.com/evalplus/evalplus
+  Retained code license: rights/EvalPlus_CODE_LICENSE.txt, including its note
+  about the HumanEval-derived evaluator's additional MIT notice.
+
+The artifact contains author-contributed aggregation/transcription sources and
+recorded benchmark-derived labels/values, not raw problem text, executable
+candidate/self-test/reference bodies or a complete vendored evaluator. Upstream
+license copies apply to their respective works; they do not automatically assign
+an MIT/Apache license to every author-contributed file. The root
+FILE_PROVENANCE_AND_RIGHTS.json distinguishes source and notice relationships;
+the root MANIFEST.json binds the actual delivered file selection.
+Author-contributed software portions are MIT; author-created data/documentation
+portions are CC BY 4.0. The root license notices and per-file origin map delimit
+these grants; third-party original terms are not replaced.

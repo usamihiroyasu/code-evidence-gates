@@ -1,0 +1,83 @@
+{
+  "expected_source_bindings": [
+    {
+      "sha256": "e5730b1a8374cb56d2fc93d890900def8a22d2fc484338ba2436f55553d1f0db",
+      "source_role": "historical_full_contract_analysis"
+    },
+    {
+      "sha256": "1ae9caffd04fea27ef481dee2548b14d17722e0ac0ab09f7d5f455587dd3ed45",
+      "source_role": "historical_order_sensitivity_analysis"
+    }
+  ],
+  "files": [
+    {
+      "relative_path": "admission_ablation/PROTOCOL.md",
+      "sha256": "23f8d2a9089a7736ed441d824ad7837b498e67e3d6c18b54cef71a1ede40cdfc",
+      "source_role": "retained_v2_core/admission_ablation/PROTOCOL.md"
+    },
+    {
+      "relative_path": "admission_ablation/v9_rows.jsonl",
+      "sha256": "3100ca7a97ce8a124f7fc5d4a9760b22ce2f42c227f8747cc3a3192cf981d110",
+      "source_role": "retained_v2_core/admission_ablation/v9_rows.jsonl"
+    },
+    {
+      "relative_path": "admission_ablation/v11_rows.jsonl",
+      "sha256": "c029dc4983fc4f3b8a2c5935a539d27b86c0c333e4548cebd24e0c7211f236dc",
+      "source_role": "retained_v2_core/admission_ablation/v11_rows.jsonl"
+    },
+    {
+      "relative_path": "admission_ablation/set_tally.py",
+      "sha256": "8180efa43c618d15a345f9e3d7054a528b5203d92d05cd53c9158c1a27793e2b",
+      "source_role": "retained_v2_core/admission_ablation/set_tally.py"
+    },
+    {
+      "relative_path": "admission_ablation/sql_tally.py",
+      "sha256": "35408c38e8c8289cf88bee8a45010fb66abe07da075f8030463a25a8e5fd7be5",
+      "source_role": "retained_v2_core/admission_ablation/sql_tally.py"
+    },
+    {
+      "relative_path": "admission_ablation/INPUT_MANIFEST.json",
+      "sha256": "5e7ccd0195bc7a68b9c1316106f4cc614c7a106367cbf3326b6ba1da535c02ed",
+      "source_role": "retained_v2_core/admission_ablation/INPUT_MANIFEST.json"
+    },
+    {
+      "relative_path": "selection_replay/PROTOCOL.md",
+      "sha256": "8f6f3bced8917538831081afd93d34e2630d2e12c0c443ba20ce1bd2dfb85861",
+      "source_role": "retained_v2_core/selection_replay/PROTOCOL.md"
+    },
+    {
+      "relative_path": "selection_replay/analyze.py",
+      "sha256": "8b43ecce924fc004565015ddfc8c8dcdec90e9c515b0e1d06ba4a57b058b7143",
+      "source_role": "retained_v2_core/selection_replay/analyze.py"
+    },
+    {
+      "relative_path": "full_contract/planned_rows.jsonl",
+      "sha256": "1171e48d5b2fb9fbb3a18fa763dcc388e0090135feb57348165c85ab971b717c",
+      "source_role": "retained_v2_core/full_contract/planned_rows.jsonl"
+    },
+    {
+      "relative_path": "full_contract/journal.jsonl",
+      "sha256": "85f5d939206083659e873455e5211dd1d9b2aaf9b743f142ad388be56e653a65",
+      "source_role": "retained_v2_core/full_contract/journal.jsonl"
+    },
+    {
+      "relative_path": "EXPECTED_SAVED_RESULTS.json",
+      "sha256": "eb37beca5cddac95c9aa097b89e207e8c7056e17663a4951de8a8897333025bc",
+      "source_role": "retained_v2_core/EXPECTED_SAVED_RESULTS.json"
+    },
+    {
+      "relative_path": "aggregate_reviewed.py",
+      "sha256": "525b37dff2c9eb4a8b68597ab41180a763e2e2b2c1603e1ab5b8778ebfc588c6",
+      "source_role": "retained_v2_core/aggregate_reviewed.py"
+    },
+    {
+      "relative_path": "full_contract/ACTUAL_FIXTURES.json",
+      "sha256": "639206abf3ad8dbe617b7b7ac2beaa84297ec1b9ea62b40e489c72cfcb0967d4",
+      "source_role": "retained_v2_core/full_contract/ACTUAL_FIXTURES.json"
+    }
+  ],
+  "fixture_membership": "Explicit ACTUAL_FIXTURES keys, not the common historical simulation_fixture marker.",
+  "limits": "Supplied saved-label aggregation only; not generation/native/label-derivation/bootstrap replication.",
+  "schema": "emse-saved-label-aggregate-inputs-v1",
+  "status": "SAVED_LABEL_ARTIFACT_INPUTS"
+}

@@ -1,0 +1,83 @@
+{
+  "table14": {
+    "flash": {
+      "assertions_total": 58,
+      "cases_all_match_complete": 0,
+      "cases_total": 9,
+      "cases_with_mismatch": 9,
+      "cases_without_mismatch_incomplete": 0,
+      "counts": {
+        "MATCH": 44,
+        "MISMATCH": 14,
+        "REFERENCE_EXCEPTION": 0,
+        "TIMEOUT": 0,
+        "UNSUPPORTED": 0
+      }
+    },
+    "gpt-oss": {
+      "assertions_total": 71,
+      "cases_all_match_complete": 0,
+      "cases_total": 19,
+      "cases_with_mismatch": 19,
+      "cases_without_mismatch_incomplete": 0,
+      "counts": {
+        "MATCH": 49,
+        "MISMATCH": 20,
+        "REFERENCE_EXCEPTION": 0,
+        "TIMEOUT": 0,
+        "UNSUPPORTED": 2
+      }
+    }
+  },
+  "table5": {
+    "alias": {
+      "flash-canonical": {
+        "AssertionError": 2,
+        "PASS": 21
+      },
+      "flash-original": {
+        "AssertionError": 1,
+        "PASS": 22
+      }
+    },
+    "inline": {
+      "flash-canonical": {
+        "AssertionError": 9,
+        "ModuleNotFoundError": 23,
+        "PASS": 1,
+        "SystemExit": 2
+      },
+      "flash-original": {
+        "AssertionError": 10,
+        "ModuleNotFoundError": 23,
+        "SystemExit": 2
+      },
+      "gpt-oss-canonical": {
+        "AssertionError": 19
+      },
+      "gpt-oss-original": {
+        "AssertionError": 19
+      }
+    },
+    "registration": {
+      "flash-canonical": {
+        "off": {
+          "ModuleNotFoundError": 23
+        },
+        "on": {
+          "AssertionError": 2,
+          "PASS": 21
+        }
+      },
+      "flash-original": {
+        "off": {
+          "ModuleNotFoundError": 23
+        },
+        "on": {
+          "AssertionError": 1,
+          "PASS": 22
+        }
+      }
+    }
+  }
+}

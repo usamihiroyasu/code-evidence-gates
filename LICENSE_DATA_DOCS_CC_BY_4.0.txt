@@ -1,0 +1,5 @@
+Author-created data and documentation portions are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+Official legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+This is an application notice with the official legal-code link, not a reproduced full legal-code text.
+Attribution: cite the accompanying paper and retain the file provenance and upstream notices.
+Third-party materials are excluded from this author grant and retain their original conditions.

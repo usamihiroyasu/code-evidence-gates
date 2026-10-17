@@ -1,0 +1,48 @@
+{
+  "entrypoint": "aggregate_reviewed.py",
+  "schema": "current-manuscript-saved-label-table-map-v1",
+  "scope": "Candidate and task counts only. Bootstrap intervals, generation/native replay, and diagnostic Tables 5/13/14 are not reconstructed by this core entrypoint. Any separately added diagnostic pack needs its own evidence/entrypoint binding.",
+  "table_15": {
+    "inputs": [
+      "admission_ablation/v9_rows.jsonl"
+    ],
+    "qualification": "Cross cells derivable from admitted/excluded saved-suite tallies; not a fresh native audit.",
+    "result_key": "tables_2_4_6"
+  },
+  "table_3": {
+    "inputs": [
+      "full_contract/planned_rows.jsonl",
+      "full_contract/journal.jsonl",
+      "full_contract/ACTUAL_FIXTURES.json",
+      "EXPECTED_SAVED_RESULTS.json"
+    ],
+    "result_key": "table_3"
+  },
+  "table_7": {
+    "inputs": [
+      "admission_ablation/v9_rows.jsonl",
+      "admission_ablation/v11_rows.jsonl"
+    ],
+    "library": "selection_replay/analyze.py",
+    "result_key": "table_7"
+  },
+  "table_9": {
+    "inputs": [
+      "full_contract/planned_rows.jsonl",
+      "full_contract/journal.jsonl",
+      "EXPECTED_SAVED_RESULTS.json"
+    ],
+    "result_key": "table_9"
+  },
+  "tables_2_4_6": {
+    "inputs": [
+      "admission_ablation/v9_rows.jsonl",
+      "admission_ablation/v11_rows.jsonl"
+    ],
+    "libraries": [
+      "admission_ablation/set_tally.py",
+      "admission_ablation/sql_tally.py"
+    ],
+    "result_key": "tables_2_4_6"
+  }
+}

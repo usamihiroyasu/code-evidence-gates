@@ -1,0 +1,1150 @@
+{
+  "cases": [
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "47184b6a4789f0f060ac6819d033456dc2bcc1dbf6cc11350d3565e2234be76d",
+          "lineno": 4,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "6bcb665ad8946e485a409a33890040aa7e8e7b4d29bf69e1f825206423564c11",
+          "lineno": 5,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/66:sample:1:reference-selftests",
+      "code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "task_id": "HumanEval/66",
+      "tests_sha256": "8ad5685d95324b9791f92fcea988e6a7fab94c7ebf68332e590e7af358da4181"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "428a9fef904282f6b4649bbcad6de925b8c8a0aefd56e3ae5d4d7d5f6ba44846",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/47:sample:1:reference-selftests",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "task_id": "HumanEval/47",
+      "tests_sha256": "b2879c9cdf2c9e0e683d81fd7bbd726ca8fa7bc95bd40d17498b054c3fbd1083"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "473d2a099f0b0b772eba9d117a90ec9b0d0df9ff6768bbbecb5368f7877cda4a",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/7:sample:1:reference-selftests",
+      "code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "task_id": "HumanEval/7",
+      "tests_sha256": "de41c4f5663de2462c943dc28462ff52671d62f8dbd5fb54748e104189f2fe1d"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "c8d880e55ea0cf36df38f5a527c7d7c7bb4ff3e69152923e8c7404df57f2b254",
+          "lineno": 4,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "5ed43697cea9103121e788d09c5b722fa1f1b8ec67885d0e81d13f0e5f6e2720",
+          "lineno": 7,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "efeeba7f787a93fa8f9acff637a83bbd2bbb0c219294e84df5d227cf1a597429",
+          "lineno": 11,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "e61cdbb820b772465971343597e7ef1f095ceed3a8c8e26398f43d6e9ea23bd6",
+          "lineno": 15,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/129:sample:1:reference-selftests",
+      "code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "task_id": "HumanEval/129",
+      "tests_sha256": "0eec1a1a7c3ab2fed2c9c82178a4410a9362b6ea2eab1b570ed8757dbb30ea15"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "5bb4a638fe2dd288c185f063b0c692337921d6649c90a84603d60251f1de529e",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "5736d90e0ac80ef2728fd03c3b2d6d6e2af1f4c502ee21eeddd06ee2ddb862cc",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "aae6fff4e37c0349cfbbc86d20525821a85be706248ead1064a72abaad88e068",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "42a84ff72e706efdaf03a99b0f7084786c443373d8c17fa8c136a0d6251a311a",
+          "lineno": 4,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "065c410eb7a3b5cbc32edb7e860f47fa67f73e1cd42e4e24e2dca12a09ae4bfe",
+          "lineno": 5,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/103:sample:3:reference-selftests",
+      "code_sha256": "9a128172084c17f42d446208f74b5acad659c27253ee0b5b7da0b083430b8cbf",
+      "task_id": "HumanEval/103",
+      "tests_sha256": "389aa2060bffb91b3a299f98208a6ecc1cc7878b9e8b4b7818851cb3a86bbe48"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "473d2a099f0b0b772eba9d117a90ec9b0d0df9ff6768bbbecb5368f7877cda4a",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "a40f4aa619f4f2aee1b17f8cab5993c434b137090573900b9b791604ecf183f3",
+          "lineno": 4,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/7:sample:3:reference-selftests",
+      "code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "task_id": "HumanEval/7",
+      "tests_sha256": "18c7e82d7e941c64d37e34f90313e32f87689afa946819615153988ed545d2d8"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "428a9fef904282f6b4649bbcad6de925b8c8a0aefd56e3ae5d4d7d5f6ba44846",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/47:sample:3:reference-selftests",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "task_id": "HumanEval/47",
+      "tests_sha256": "b2879c9cdf2c9e0e683d81fd7bbd726ca8fa7bc95bd40d17498b054c3fbd1083"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/66:sample:0:reference-selftests",
+      "code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "task_id": "HumanEval/66",
+      "tests_sha256": "4c0efd1f67cb140336763c1a3fbd7b6be22cfba42af8f7c64b8f7a50f6521387"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "9a6b6e5057eea1f3ca8b1936b10f5ac482177c4bc2c39fa704cd620a39043960",
+          "lineno": 4,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "6ebb67ca6446f3426367311b53f57b6870289ac35ceff0b6fd581fd9576cc363",
+          "lineno": 7,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "fc56e1bb710db1f6725cd51ed5c73241945386a697e1177f52abe3b9cab99ae7",
+          "lineno": 12,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "ab44f9ec11d1a269218940b9964b3dbde32677732ebb405008805a7187f8528b",
+          "lineno": 16,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/129:sample:2:reference-selftests",
+      "code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "task_id": "HumanEval/129",
+      "tests_sha256": "a72658da011e37d72322057e357e5c879eeac9d7eb3a770266403ac550d933bd"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "c8d880e55ea0cf36df38f5a527c7d7c7bb4ff3e69152923e8c7404df57f2b254",
+          "lineno": 4,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "2c00ce505d2f81b5f44402f973d0c4deb7fc8adfdbccd4f95f7f449f6aecc633",
+          "lineno": 6,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "d55c118f09b565ebbd7d162d623a5b0b229fece537a7a3527b77fada1197ef81",
+          "lineno": 9,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "fb6a1301b4741e7f211af3e747fa7a34cec207021ae0afa914ed6b2b75903d69",
+          "lineno": 18,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/129:sample:3:reference-selftests",
+      "code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "task_id": "HumanEval/129",
+      "tests_sha256": "c56b6a88fb6f175641c6f71346f128822cbf6c418197fc4491f2265f9b5e9d2e"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "f956506d8f926e11c9f0f747e892d73c36c1fc8648d1be48d5841351e1be2f48",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "d44d111e1acb030d9bc50c3c67e330b85cf4481d073bca3fffd5e2b1841c7961",
+          "lineno": 10,
+          "status": "UNSUPPORTED"
+        },
+        {
+          "assertion_ast_sha256": "37ea328dc2e98018184456ac407f3757a6cc4d796eb486b2c65340f1c8a847cc",
+          "lineno": 17,
+          "status": "UNSUPPORTED"
+        }
+      ],
+      "case_id": "HumanEval/47:sample:2:reference-selftests",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "task_id": "HumanEval/47",
+      "tests_sha256": "b663cf897c2ef3eae94ef301c9fce77f7d0c6e18b40771eef01ff5389b36e10d"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "c68284f56fad88f9191c8c7fa8f971b1ae6b55a5c2c84facfab231436530b3f3",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/7:sample:2:reference-selftests",
+      "code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "task_id": "HumanEval/7",
+      "tests_sha256": "bf8a370c381664af76f54c3c9fcc90b7fea62cbd546a1e3eaad0d57d5db8a142"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "c68284f56fad88f9191c8c7fa8f971b1ae6b55a5c2c84facfab231436530b3f3",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/7:sample:0:reference-selftests",
+      "code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "task_id": "HumanEval/7",
+      "tests_sha256": "bf8a370c381664af76f54c3c9fcc90b7fea62cbd546a1e3eaad0d57d5db8a142"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "a19faa61ccd0f23d216697b9c9ae617701fb53be45c5d3a7d87655b741317afb",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "87053ae1d61941d6ddde5794e604b0a5c50b14e3b3be010321db141a933d21b0",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "0076cb484eb8a23318866d800ff9e55b86afcceae08e8f33fd740776756f8ed7",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/2:sample:3:reference-selftests",
+      "code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "task_id": "HumanEval/2",
+      "tests_sha256": "6f644fe7b8033170407d6aabfebad49873a353b224c26694adb28c96be5338c4"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/66:sample:2:reference-selftests",
+      "code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "task_id": "HumanEval/66",
+      "tests_sha256": "4c0efd1f67cb140336763c1a3fbd7b6be22cfba42af8f7c64b8f7a50f6521387"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "47184b6a4789f0f060ac6819d033456dc2bcc1dbf6cc11350d3565e2234be76d",
+          "lineno": 4,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "6bcb665ad8946e485a409a33890040aa7e8e7b4d29bf69e1f825206423564c11",
+          "lineno": 5,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/66:sample:3:reference-selftests",
+      "code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "task_id": "HumanEval/66",
+      "tests_sha256": "8ad5685d95324b9791f92fcea988e6a7fab94c7ebf68332e590e7af358da4181"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "96b01da28e3a4133076797075e63207f3812707b806c39069a5984c876901d1f",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "72b8c3267a210845786a4c6af6f7abd0480c67f1c3d384a49ea8eaca8c942bdb",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "17de87b4b52e8e469d486c0df6b365e542f68e98b0bceeb51b4200e1e04fd611",
+          "lineno": 3,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/81:sample:3:reference-selftests",
+      "code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "task_id": "HumanEval/81",
+      "tests_sha256": "7025316ab35d7bef6555b88f390f905a0b21d1c59d107889ff83b68ecafe5bab"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "15b9070e3fc0f97ab6f249a78a9fdc4a5bf9da37a4e886dc894b8652049fc571",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "3a56351d9ae0b7949e398637be5082b43380545681676885fd7d8d2bcafdeb02",
+          "lineno": 6,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "6f22ba323972a8decaf13061774d371ad6e08c84b1c0cfe00711ec9f83691fa6",
+          "lineno": 9,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "8aa75422c61c4b6d87caebe6ce8e80f16dbd1cd990227d245ed3cb430e91b706",
+          "lineno": 12,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/6:sample:0:reference-selftests",
+      "code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "task_id": "HumanEval/6",
+      "tests_sha256": "b151420100ba64d9dd52e89df8bf5db5b22e7dd172f20ea45cce3aeed852fec2"
+    },
+    {
+      "assertions": [
+        {
+          "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+          "lineno": 1,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+          "lineno": 2,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "1a9b8a8ecd9c808bf5586fbca65e8e44dfc914f576e1b71716fd9661b083fe5a",
+          "lineno": 3,
+          "status": "COMPILED"
+        },
+        {
+          "assertion_ast_sha256": "a3840b082b4f1fcf2f9581119653b734b896c85333f134b3b3e559b44f2d501b",
+          "lineno": 5,
+          "status": "COMPILED"
+        }
+      ],
+      "case_id": "HumanEval/47:sample:0:reference-selftests",
+      "code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "task_id": "HumanEval/47",
+      "tests_sha256": "5d2ffe121ff95c6d6e0cdf282919bb81d6de7c07fa0eff1cb274293b8eb59e30"
+    }
+  ],
+  "records": [
+    {
+      "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+      "case_id": "HumanEval/66:sample:1:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+      "case_id": "HumanEval/66:sample:1:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+      "case_id": "HumanEval/66:sample:1:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "47184b6a4789f0f060ac6819d033456dc2bcc1dbf6cc11350d3565e2234be76d",
+      "case_id": "HumanEval/66:sample:1:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "6bcb665ad8946e485a409a33890040aa7e8e7b4d29bf69e1f825206423564c11",
+      "case_id": "HumanEval/66:sample:1:reference-selftests",
+      "lineno": 5,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+      "case_id": "HumanEval/47:sample:1:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+      "case_id": "HumanEval/47:sample:1:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "428a9fef904282f6b4649bbcad6de925b8c8a0aefd56e3ae5d4d7d5f6ba44846",
+      "case_id": "HumanEval/47:sample:1:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+      "case_id": "HumanEval/7:sample:1:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+      "case_id": "HumanEval/7:sample:1:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "473d2a099f0b0b772eba9d117a90ec9b0d0df9ff6768bbbecb5368f7877cda4a",
+      "case_id": "HumanEval/7:sample:1:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "c8d880e55ea0cf36df38f5a527c7d7c7bb4ff3e69152923e8c7404df57f2b254",
+      "case_id": "HumanEval/129:sample:1:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "5ed43697cea9103121e788d09c5b722fa1f1b8ec67885d0e81d13f0e5f6e2720",
+      "case_id": "HumanEval/129:sample:1:reference-selftests",
+      "lineno": 7,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "efeeba7f787a93fa8f9acff637a83bbd2bbb0c219294e84df5d227cf1a597429",
+      "case_id": "HumanEval/129:sample:1:reference-selftests",
+      "lineno": 11,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "e61cdbb820b772465971343597e7ef1f095ceed3a8c8e26398f43d6e9ea23bd6",
+      "case_id": "HumanEval/129:sample:1:reference-selftests",
+      "lineno": 15,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "5bb4a638fe2dd288c185f063b0c692337921d6649c90a84603d60251f1de529e",
+      "case_id": "HumanEval/103:sample:3:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "9a128172084c17f42d446208f74b5acad659c27253ee0b5b7da0b083430b8cbf",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/103"
+    },
+    {
+      "assertion_ast_sha256": "5736d90e0ac80ef2728fd03c3b2d6d6e2af1f4c502ee21eeddd06ee2ddb862cc",
+      "case_id": "HumanEval/103:sample:3:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "9a128172084c17f42d446208f74b5acad659c27253ee0b5b7da0b083430b8cbf",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/103"
+    },
+    {
+      "assertion_ast_sha256": "aae6fff4e37c0349cfbbc86d20525821a85be706248ead1064a72abaad88e068",
+      "case_id": "HumanEval/103:sample:3:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "9a128172084c17f42d446208f74b5acad659c27253ee0b5b7da0b083430b8cbf",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/103"
+    },
+    {
+      "assertion_ast_sha256": "42a84ff72e706efdaf03a99b0f7084786c443373d8c17fa8c136a0d6251a311a",
+      "case_id": "HumanEval/103:sample:3:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "9a128172084c17f42d446208f74b5acad659c27253ee0b5b7da0b083430b8cbf",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/103"
+    },
+    {
+      "assertion_ast_sha256": "065c410eb7a3b5cbc32edb7e860f47fa67f73e1cd42e4e24e2dca12a09ae4bfe",
+      "case_id": "HumanEval/103:sample:3:reference-selftests",
+      "lineno": 5,
+      "reference_code_sha256": "9a128172084c17f42d446208f74b5acad659c27253ee0b5b7da0b083430b8cbf",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/103"
+    },
+    {
+      "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+      "case_id": "HumanEval/7:sample:3:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+      "case_id": "HumanEval/7:sample:3:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "473d2a099f0b0b772eba9d117a90ec9b0d0df9ff6768bbbecb5368f7877cda4a",
+      "case_id": "HumanEval/7:sample:3:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "a40f4aa619f4f2aee1b17f8cab5993c434b137090573900b9b791604ecf183f3",
+      "case_id": "HumanEval/7:sample:3:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+      "case_id": "HumanEval/47:sample:3:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+      "case_id": "HumanEval/47:sample:3:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "428a9fef904282f6b4649bbcad6de925b8c8a0aefd56e3ae5d4d7d5f6ba44846",
+      "case_id": "HumanEval/47:sample:3:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+      "case_id": "HumanEval/66:sample:0:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+      "case_id": "HumanEval/66:sample:0:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+      "case_id": "HumanEval/66:sample:0:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "9a6b6e5057eea1f3ca8b1936b10f5ac482177c4bc2c39fa704cd620a39043960",
+      "case_id": "HumanEval/129:sample:2:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "6ebb67ca6446f3426367311b53f57b6870289ac35ceff0b6fd581fd9576cc363",
+      "case_id": "HumanEval/129:sample:2:reference-selftests",
+      "lineno": 7,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "fc56e1bb710db1f6725cd51ed5c73241945386a697e1177f52abe3b9cab99ae7",
+      "case_id": "HumanEval/129:sample:2:reference-selftests",
+      "lineno": 12,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "ab44f9ec11d1a269218940b9964b3dbde32677732ebb405008805a7187f8528b",
+      "case_id": "HumanEval/129:sample:2:reference-selftests",
+      "lineno": 16,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "c8d880e55ea0cf36df38f5a527c7d7c7bb4ff3e69152923e8c7404df57f2b254",
+      "case_id": "HumanEval/129:sample:3:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "2c00ce505d2f81b5f44402f973d0c4deb7fc8adfdbccd4f95f7f449f6aecc633",
+      "case_id": "HumanEval/129:sample:3:reference-selftests",
+      "lineno": 6,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "d55c118f09b565ebbd7d162d623a5b0b229fece537a7a3527b77fada1197ef81",
+      "case_id": "HumanEval/129:sample:3:reference-selftests",
+      "lineno": 9,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "fb6a1301b4741e7f211af3e747fa7a34cec207021ae0afa914ed6b2b75903d69",
+      "case_id": "HumanEval/129:sample:3:reference-selftests",
+      "lineno": 18,
+      "reference_code_sha256": "960baf7c7033b3b203f82db85fbed3cb298f85dbf9ed70d7e6f7f2c3e06c7f20",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/129"
+    },
+    {
+      "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+      "case_id": "HumanEval/47:sample:2:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+      "case_id": "HumanEval/47:sample:2:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "f956506d8f926e11c9f0f747e892d73c36c1fc8648d1be48d5841351e1be2f48",
+      "case_id": "HumanEval/47:sample:2:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "d44d111e1acb030d9bc50c3c67e330b85cf4481d073bca3fffd5e2b1841c7961",
+      "case_id": "HumanEval/47:sample:2:reference-selftests",
+      "lineno": 10,
+      "reference_hash_field_present": false,
+      "status": "UNSUPPORTED",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "37ea328dc2e98018184456ac407f3757a6cc4d796eb486b2c65340f1c8a847cc",
+      "case_id": "HumanEval/47:sample:2:reference-selftests",
+      "lineno": 17,
+      "reference_hash_field_present": false,
+      "status": "UNSUPPORTED",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+      "case_id": "HumanEval/7:sample:2:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+      "case_id": "HumanEval/7:sample:2:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "c68284f56fad88f9191c8c7fa8f971b1ae6b55a5c2c84facfab231436530b3f3",
+      "case_id": "HumanEval/7:sample:2:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "ea88ecf881fbc0c5aac1e44b9021a0c1d075c5185832e043ac21e63fe632f502",
+      "case_id": "HumanEval/7:sample:0:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "cb1de73452dfe7f6a763da28b64f44f4d4c1d3d9e388715499acd959db732fd8",
+      "case_id": "HumanEval/7:sample:0:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "c68284f56fad88f9191c8c7fa8f971b1ae6b55a5c2c84facfab231436530b3f3",
+      "case_id": "HumanEval/7:sample:0:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "948a9f9b3f6d1abdd50947ea27ceb613708085e8c3dddf27b9943849c7a716cc",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/7"
+    },
+    {
+      "assertion_ast_sha256": "a19faa61ccd0f23d216697b9c9ae617701fb53be45c5d3a7d87655b741317afb",
+      "case_id": "HumanEval/2:sample:3:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "assertion_ast_sha256": "87053ae1d61941d6ddde5794e604b0a5c50b14e3b3be010321db141a933d21b0",
+      "case_id": "HumanEval/2:sample:3:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "assertion_ast_sha256": "0076cb484eb8a23318866d800ff9e55b86afcceae08e8f33fd740776756f8ed7",
+      "case_id": "HumanEval/2:sample:3:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "f8d2ea2882143ac7415256c5c0cbd074e8e215a4f07c31ad2d3a2f13eba8bfd1",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/2"
+    },
+    {
+      "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+      "case_id": "HumanEval/66:sample:2:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+      "case_id": "HumanEval/66:sample:2:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+      "case_id": "HumanEval/66:sample:2:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "9940400b79c6beefa003249352c8a181fe66f12e87d7fccd6873d4755bfc7226",
+      "case_id": "HumanEval/66:sample:3:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "d96b6625b969450a7174e0c569769b6b526616b0e5859c27b2ad802f21797c9d",
+      "case_id": "HumanEval/66:sample:3:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "66e8fec6f83d0d41893992dfc1ae8b36c74fb4de6bf98eb900a653eef780e6f5",
+      "case_id": "HumanEval/66:sample:3:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "47184b6a4789f0f060ac6819d033456dc2bcc1dbf6cc11350d3565e2234be76d",
+      "case_id": "HumanEval/66:sample:3:reference-selftests",
+      "lineno": 4,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "6bcb665ad8946e485a409a33890040aa7e8e7b4d29bf69e1f825206423564c11",
+      "case_id": "HumanEval/66:sample:3:reference-selftests",
+      "lineno": 5,
+      "reference_code_sha256": "82cf5102648325e742aab8cb82ae6c76f398ece334f71cf7687bd0733f68c16e",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/66"
+    },
+    {
+      "assertion_ast_sha256": "96b01da28e3a4133076797075e63207f3812707b806c39069a5984c876901d1f",
+      "case_id": "HumanEval/81:sample:3:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "assertion_ast_sha256": "72b8c3267a210845786a4c6af6f7abd0480c67f1c3d384a49ea8eaca8c942bdb",
+      "case_id": "HumanEval/81:sample:3:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "assertion_ast_sha256": "17de87b4b52e8e469d486c0df6b365e542f68e98b0bceeb51b4200e1e04fd611",
+      "case_id": "HumanEval/81:sample:3:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "333ade245aa4577570c7427d0bf5b3106cc771d56d01dd196651b8f772e7e6bb",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/81"
+    },
+    {
+      "assertion_ast_sha256": "15b9070e3fc0f97ab6f249a78a9fdc4a5bf9da37a4e886dc894b8652049fc571",
+      "case_id": "HumanEval/6:sample:0:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "assertion_ast_sha256": "3a56351d9ae0b7949e398637be5082b43380545681676885fd7d8d2bcafdeb02",
+      "case_id": "HumanEval/6:sample:0:reference-selftests",
+      "lineno": 6,
+      "reference_code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "assertion_ast_sha256": "6f22ba323972a8decaf13061774d371ad6e08c84b1c0cfe00711ec9f83691fa6",
+      "case_id": "HumanEval/6:sample:0:reference-selftests",
+      "lineno": 9,
+      "reference_code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "assertion_ast_sha256": "8aa75422c61c4b6d87caebe6ce8e80f16dbd1cd990227d245ed3cb430e91b706",
+      "case_id": "HumanEval/6:sample:0:reference-selftests",
+      "lineno": 12,
+      "reference_code_sha256": "00f00bbf0ee78bf1a3e390e1b59201bb1ba0975177a7477e7fd627926f729935",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/6"
+    },
+    {
+      "assertion_ast_sha256": "56ab8b02065109f7ddfb79a5451ea2328603209e896b0b597f42df8c612c5cee",
+      "case_id": "HumanEval/47:sample:0:reference-selftests",
+      "lineno": 1,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "46ab960d8ecf56be50fc4b85ff36244fa7da7660a5c560541cb28220f1ebf56c",
+      "case_id": "HumanEval/47:sample:0:reference-selftests",
+      "lineno": 2,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MISMATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "1a9b8a8ecd9c808bf5586fbca65e8e44dfc914f576e1b71716fd9661b083fe5a",
+      "case_id": "HumanEval/47:sample:0:reference-selftests",
+      "lineno": 3,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    },
+    {
+      "assertion_ast_sha256": "a3840b082b4f1fcf2f9581119653b734b896c85333f134b3b3e559b44f2d501b",
+      "case_id": "HumanEval/47:sample:0:reference-selftests",
+      "lineno": 5,
+      "reference_code_sha256": "47a5ce09330862f0c017822b5698664540e97b3a44da3cc3d6e93d804a8e3767",
+      "reference_hash_field_present": true,
+      "status": "MATCH",
+      "task_id": "HumanEval/47"
+    }
+  ]
+}

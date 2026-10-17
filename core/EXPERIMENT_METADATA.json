@@ -1,0 +1,28 @@
+{
+  "schema": "saved-experiment-reporting-metadata-v1",
+  "status": "STATIC_RECORD_BINDINGS_NOT_NEW_EXECUTION",
+  "requested_common": {"temperature": 0.6, "max_tokens": 4096, "stream": false},
+  "profiles": {
+    "flash": {"served_label": "qwen3.8-flash-next", "reasoning_effort": "none", "chat_template_kwargs": {"thinking": false, "enable_thinking": false, "reasoning_effort": "none"}},
+    "gpt-oss": {"served_label": "openai/gpt-oss-120b", "reasoning_effort": "low"}
+  },
+  "request_timestamp_windows_utc": {
+    "v9_flash": ["2026-10-08T21:42:24.129860+00:00", "2026-10-08T22:14:18.101952+00:00"],
+    "v9_gpt-oss": ["2026-10-08T22:14:23.899516+00:00", "2026-10-08T22:39:05.199592+00:00"],
+    "v11_flash": ["2026-10-09T00:08:28.049646+00:00", "2026-10-09T00:34:03.396651+00:00"],
+    "v11_gpt-oss": ["2026-10-09T00:34:12.220345+00:00", "2026-10-09T00:56:41.138690+00:00"]
+  },
+  "bootstrap": {
+    "replicates": 20000, "task_clusters": 32, "RNG": "Python random.Random(integer_seed)",
+    "seed_derivation": "int(SHA256((namespace+'|analysis|'+config_id).encode()),16)",
+    "namespace_v9": "V9-selftest-vs-independent-code-20261009",
+    "namespace_v11": "V11-disjoint100-fixed32-selftest-independent-20261009",
+    "seeds": {"v9_flash": "81357620885539686653670415063972432220587297686090611519099384481182482122530", "v9_gpt-oss": "12526005718538896416979533343904666278152900348890052535895915432254042381966", "v11_flash": "12057465973998601333399575425936117548970498485117217538635812568148195649114", "v11_gpt-oss": "94938124474083477928681906814838862004265967718912112308495044626915849504429"},
+    "quantile": "type7 linear interpolation, h=(n-1)*p; p=.025,.975",
+    "undefined_rule": "Zero original denominator or more than5percent undefined draws holds conditional interval; omit undefined ratios and retain their count.",
+    "saved_undefined_draws": [0,0,0,0], "replayed_in_this_revision": false
+  },
+  "source_pins": {"shared_configs": "354ea852ea81847590599faedf2d0e74da82ffb95d40a25437e2cafd5fc770c9", "v9_generation_journal": "2cfc86ffbf5a3adeb7186f7dc5256fb765b2fbcd4648846f3a025c3924e7a9de", "v11_generation_journal": "8d5f0d066bb62598d201f3b33ee7b3c42135bb0535e6ed7e1a2a26b591a9c20c", "v9_expected_analysis": "e1118960c6a69c17a6ee238ece26bd879a294f3ce11e8362f3c78028d10af700", "v11_expected_analysis": "ea79cf5cbf5d02d510f9b8b66dd30e2ca3bf951fb7d56e7aa37fb261fd9bbec8"},
+  "not_established_in_selected_exports": ["historical deployment operator/provider", "external versus self-hosted access", "inference runtime/version", "quantization", "weight digest", "requested-setting enforcement", "original analyzer interpreter build"],
+  "limits": "Request timestamps are not response-completion times. Evaluation Python3.12.13 is not an inference-backend identity. Omitted fields are not proven globally absent. Exact bootstrap seeds and method bound, not intervals freshly recomputed. D1 unexecuted and optional."
+}

@@ -1,0 +1,206 @@
+{
+  "files": [
+    {
+      "bytes": 1050,
+      "path": "CODE_EQUIVALENCE.json",
+      "sha256": "654ef2f56e831656d20dec0cd1b5293737c8e7225d7ab174e7762fb8b57193bb"
+    },
+    {
+      "bytes": 35867,
+      "path": "FILE_PROVENANCE_AND_RIGHTS.json",
+      "sha256": "166adaa16e2fef04cb989f610e2b74c3a0e234deb5f88a620e37cc2db1fe72eb"
+    },
+    {
+      "bytes": 1080,
+      "path": "LICENSE_CODE_MIT.txt",
+      "sha256": "4bc43bf163abf7879cf9c743e3438f7016d996b055ca04aa4da1afbe72bc85a2"
+    },
+    {
+      "bytes": 495,
+      "path": "LICENSE_DATA_DOCS_CC_BY_4.0.txt",
+      "sha256": "9e0fdbf0f1c87831efab9eb2449ea7076c5e485c056951a0216a5dc3587205b7"
+    },
+    {
+      "bytes": 3435,
+      "path": "README.txt",
+      "sha256": "4183b8d30bf59b20f31e61d21e724f651d8681b37f0d34ccba7770fa0ce13bb9"
+    },
+    {
+      "bytes": 282957,
+      "path": "core/ACTUAL_RESULT.json",
+      "sha256": "5789e0603b312e087a3bc6380eddd430797254521d35fe919cd4014702d0e726"
+    },
+    {
+      "bytes": 4575,
+      "path": "core/EXPECTED_SAVED_RESULTS.json",
+      "sha256": "eb37beca5cddac95c9aa097b89e207e8c7056e17663a4951de8a8897333025bc"
+    },
+    {
+      "bytes": 2941,
+      "path": "core/EXPERIMENT_METADATA.json",
+      "sha256": "e6d0e89871b0344cd8ba0b0719080d8eff97eecee801f84afd60b4079bfb0689"
+    },
+    {
+      "bytes": 3617,
+      "path": "core/INPUT_MANIFEST_REVIEWED.json",
+      "sha256": "aa4a8bf2ced64b35458a4f956857064286ded57c596ce127b45b04a3ed3ced36"
+    },
+    {
+      "bytes": 3700,
+      "path": "core/PACKAGE_MANIFEST.json",
+      "sha256": "fbd72945feb46f195e0f873969fd956973b68dc9aa19367923a797268258f5a0"
+    },
+    {
+      "bytes": 1860,
+      "path": "core/README.txt",
+      "sha256": "0b062b696ab5043c3123f5faa447517d30f31cc579ad96d3937f46a1aacba721"
+    },
+    {
+      "bytes": 1920,
+      "path": "core/SOURCE_BINDINGS.json",
+      "sha256": "98df118eb8cb378388990375ea538f212ccb9dc9b999c45671daeb0555551516"
+    },
+    {
+      "bytes": 1476,
+      "path": "core/TABLE_TO_FILES.json",
+      "sha256": "cadefd2425342174102adde07333a23f9e65f85f4ff7e934d8fef5bc4f7a5a1c"
+    },
+    {
+      "bytes": 1079,
+      "path": "core/THIRD_PARTY_NOTICES.txt",
+      "sha256": "9fe39dc401f0053d42a7698e47b101706427c1545a6bc515bcd4366ffb326ef4"
+    },
+    {
+      "bytes": 1036,
+      "path": "core/admission_ablation/INPUT_MANIFEST.json",
+      "sha256": "5e7ccd0195bc7a68b9c1316106f4cc614c7a106367cbf3326b6ba1da535c02ed"
+    },
+    {
+      "bytes": 2607,
+      "path": "core/admission_ablation/PROTOCOL.md",
+      "sha256": "23f8d2a9089a7736ed441d824ad7837b498e67e3d6c18b54cef71a1ede40cdfc"
+    },
+    {
+      "bytes": 1974,
+      "path": "core/admission_ablation/set_tally.py",
+      "sha256": "8180efa43c618d15a345f9e3d7054a528b5203d92d05cd53c9158c1a27793e2b"
+    },
+    {
+      "bytes": 1931,
+      "path": "core/admission_ablation/sql_tally.py",
+      "sha256": "35408c38e8c8289cf88bee8a45010fb66abe07da075f8030463a25a8e5fd7be5"
+    },
+    {
+      "bytes": 100959,
+      "path": "core/admission_ablation/v11_rows.jsonl",
+      "sha256": "c029dc4983fc4f3b8a2c5935a539d27b86c0c333e4548cebd24e0c7211f236dc"
+    },
+    {
+      "bytes": 101130,
+      "path": "core/admission_ablation/v9_rows.jsonl",
+      "sha256": "3100ca7a97ce8a124f7fc5d4a9760b22ce2f42c227f8747cc3a3192cf981d110"
+    },
+    {
+      "bytes": 8044,
+      "path": "core/aggregate_reviewed.py",
+      "sha256": "525b37dff2c9eb4a8b68597ab41180a763e2e2b2c1603e1ab5b8778ebfc588c6"
+    },
+    {
+      "bytes": 2987,
+      "path": "core/full_contract/ACTUAL_FIXTURES.json",
+      "sha256": "639206abf3ad8dbe617b7b7ac2beaa84297ec1b9ea62b40e489c72cfcb0967d4"
+    },
+    {
+      "bytes": 231126,
+      "path": "core/full_contract/journal.jsonl",
+      "sha256": "85f5d939206083659e873455e5211dd1d9b2aaf9b743f142ad388be56e653a65"
+    },
+    {
+      "bytes": 341248,
+      "path": "core/full_contract/planned_rows.jsonl",
+      "sha256": "1171e48d5b2fb9fbb3a18fa763dcc388e0090135feb57348165c85ab971b717c"
+    },
+    {
+      "bytes": 11558,
+      "path": "core/rights/EvalPlus_CODE_LICENSE.txt",
+      "sha256": "fcc1f77fe5443b21bfc4dfcc3d66f7654f599b91582df771850e5e876986a103"
+    },
+    {
+      "bytes": 1083,
+      "path": "core/rights/HumanEval_LICENSE.txt",
+      "sha256": "bcba3de214851cce46ed5af42d6698044616eeace887c3231bc7a20474ab639e"
+    },
+    {
+      "bytes": 3625,
+      "path": "core/selection_replay/PROTOCOL.md",
+      "sha256": "8f6f3bced8917538831081afd93d34e2630d2e12c0c443ba20ce1bd2dfb85861"
+    },
+    {
+      "bytes": 4607,
+      "path": "core/selection_replay/analyze.py",
+      "sha256": "8b43ecce924fc004565015ddfc8c8dcdec90e9c515b0e1d06ba4a57b058b7143"
+    },
+    {
+      "bytes": 33711,
+      "path": "diagnostics_13/RECONSTRUCTED_TABLE13.json",
+      "sha256": "0b3adc304255b94d0b5af3ce6db19b61b7b0335b1da7009e931a701bf8ffc937"
+    },
+    {
+      "bytes": 51561,
+      "path": "diagnostics_13/TYPED_PAIRS.json",
+      "sha256": "6038514deb8714f4bc63d9195da9e58f2a7353ec1d62e40d7d5ae476faf55cf5"
+    },
+    {
+      "bytes": 14660,
+      "path": "diagnostics_13/reconstruct_table13_candidate.py",
+      "sha256": "5f644e07e96c5554e10d46ce9d0cbd3eb376d01d61fea890748c619af9e5a9fb"
+    },
+    {
+      "bytes": 2932,
+      "path": "diagnostics_5_14/INPUT_MANIFEST.json",
+      "sha256": "3fe4eb578be5a817cfcbcb1410ce2ede02822961b2d1bce87558c2ef234a6d17"
+    },
+    {
+      "bytes": 2625,
+      "path": "diagnostics_5_14/RESULT.json",
+      "sha256": "b5d3e42bad83a987a81144a94d7dbdbef59f313bae2154eb0aa7479b00b3a644"
+    },
+    {
+      "bytes": 7404,
+      "path": "diagnostics_5_14/aggregate_diagnostics.py",
+      "sha256": "878857fe63f02506e8b4f884ed1b752c19d41fdfe4e3804e8513d13ffe45b7b2"
+    },
+    {
+      "bytes": 42831,
+      "path": "diagnostics_5_14/alias_labels.json",
+      "sha256": "566b8fb3194825ddaaff72918de58762bfa87943f6244ab212c64d8495964790"
+    },
+    {
+      "bytes": 34649,
+      "path": "diagnostics_5_14/flash_assertion_labels.json",
+      "sha256": "12f2ffeb95849dbaa7b58919fb1cb7564624baf7a3ed9936257b3ddf04679f89"
+    },
+    {
+      "bytes": 46330,
+      "path": "diagnostics_5_14/gptoss_assertion_labels.json",
+      "sha256": "b81e7918d789bbb342fc14b19c797b4132c665fe7a01bce2ef29b552a593b5fa"
+    },
+    {
+      "bytes": 86267,
+      "path": "diagnostics_5_14/inline_labels.json",
+      "sha256": "71a74c2fcec62573cb9f9cf2ec97d1e23ac0a4fd6131aa840cc0425f2f6ee8b3"
+    },
+    {
+      "bytes": 1723,
+      "path": "diagnostics_5_14/recorded_totals.json",
+      "sha256": "93045dc9aba909e12f62b804b3dc59b6f1ccd1eefa57ccf677fe49494362e3b0"
+    },
+    {
+      "bytes": 99127,
+      "path": "diagnostics_5_14/registration_labels.json",
+      "sha256": "5ba4171f1264e86c8a475139319a0b440b876ec79e36d3282680d5e5eae1d73d"
+    }
+  ],
+  "schema": "saved-record-artifact-manifest-v1",
+  "scope": "all delivered leaves other than this manifest"
+}

@@ -1,0 +1,42 @@
+{
+  "driver_sha256": "878857fe63f02506e8b4f884ed1b752c19d41fdfe4e3804e8513d13ffe45b7b2",
+  "excluded_fields": [
+    "code",
+    "self_tests",
+    "source",
+    "context",
+    "args",
+    "kwargs",
+    "expected",
+    "actual",
+    "task_contracts",
+    "pinned_comparator_source",
+    "absolute_private_paths"
+  ],
+  "files": {
+    "alias_labels.json": "566b8fb3194825ddaaff72918de58762bfa87943f6244ab212c64d8495964790",
+    "flash_assertion_labels.json": "12f2ffeb95849dbaa7b58919fb1cb7564624baf7a3ed9936257b3ddf04679f89",
+    "gptoss_assertion_labels.json": "b81e7918d789bbb342fc14b19c797b4132c665fe7a01bce2ef29b552a593b5fa",
+    "inline_labels.json": "71a74c2fcec62573cb9f9cf2ec97d1e23ac0a4fd6131aa840cc0425f2f6ee8b3",
+    "recorded_totals.json": "93045dc9aba909e12f62b804b3dc59b6f1ccd1eefa57ccf677fe49494362e3b0",
+    "registration_labels.json": "5ba4171f1264e86c8a475139319a0b440b876ec79e36d3282680d5e5eae1d73d"
+  },
+  "limits": "Counts saved labels; does not execute or independently validate historical generated code, reference outputs, comparator policy, or bootstrap intervals. Origin mapping is preserved as provenance; this is not end-to-end native replication.",
+  "schema": "emse-saved-diagnostic-projection-v1",
+  "scope": "Saved-label aggregation for current Tables 5 and 14 only; no Table 13 pair-policy reconstruction.",
+  "source_files": {
+    "assertion_expected_output/analysis_input.json": "567f4536f812adfefe09afc6dceae2f3dbc9264a77bd6426902ed904d1199223",
+    "assertion_expected_output/summary.json": "1498e78ebf134fdfca541126022b99415eea9288cd67a4bd40f0ce438456ebef",
+    "flash_assertion_expected_output/analysis_input.json": "e992d57a860f5824867d85784bb69c8c113a933bc59e60fbe25a3faee7f5881f",
+    "flash_assertion_expected_output/summary.json": "e7b6c1799696729fa88a872aaccde2ff5b2532d6ca18753358d5c040d619d8a1",
+    "module_alias_diagnostic/ORIGIN_MAPPING.json": "79e8d0cbd1bd787e78451d68a53b89440cfe7764573c2d290f1efda68cfcc815",
+    "module_alias_diagnostic/analysis.json": "49d1062d40750d7cb485ec73ce28641cafafa92cc377ca4e5dc1aa507ca21ea9",
+    "module_alias_diagnostic/oracle/journal.jsonl": "96ec5b899a97b8520032c4eae1c3cb5fe602a870022b3cec03d2d4ce65cba0af",
+    "paired_interface_diagnostic/ORIGIN_MAPPING.json": "5e9aba402374c38e443f18423bb16720b66499bb84ea5a5c254635947e16b9aa",
+    "paired_interface_diagnostic/analysis.json": "f8b521e849d7c995c4b55cd0dcc555d82fb69245450cec8286b66bc79a5dfe4f",
+    "paired_interface_diagnostic/oracle/journal.jsonl": "872556f2e159db5653f463cdc12f2d1e11370adf43857951afa60af595a503a3",
+    "selftest_exception_diagnostic/ORIGIN_MAPPING.json": "3eedb8f0dc11f29ed5aab14283938818c30b4930b89a7b7e2b3a15064b152d10",
+    "selftest_exception_diagnostic/analysis.json": "6c84557a71f5e8fab0f0ecfa7e113db76ef60a6b83d959f5f91bbbc7de61062f",
+    "selftest_exception_diagnostic/oracle/journal.jsonl": "47d15f7f0e770495221bc8f82482f61a1d9456c9b954f1ac1faa6f8a8075c3a5"
+  }
+}

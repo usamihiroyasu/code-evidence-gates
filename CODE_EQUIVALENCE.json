@@ -1,0 +1,21 @@
+{
+  "experimental_executions_in_this_preparation": 0,
+  "recorded_results_unchanged": true,
+  "schema": "saved-record-script-documentation-delta-v1",
+  "scripts": [
+    {
+      "computational_ast_sha256": "e29ff6942c2a51fb92fb3753be3850955bee753da0b86f0b861cb86adef653c5",
+      "current_sha256": "878857fe63f02506e8b4f884ed1b752c19d41fdfe4e3804e8513d13ffe45b7b2",
+      "original_sha256": "4c2e7f879cad1ca2f7cb3c021c69d8326de0d63b4d5fc179bb540828f03c3f1e",
+      "path": "diagnostics_5_14/aggregate_diagnostics.py",
+      "scope": "module docstring only; all non-docstring AST nodes unchanged"
+    },
+    {
+      "computational_ast_sha256": "5da68794653d3f049ed92da785a1277e2274dbc9c1cda53e2dfc5fa4b1e78743",
+      "current_sha256": "5f644e07e96c5554e10d46ce9d0cbd3eb376d01d61fea890748c619af9e5a9fb",
+      "original_sha256": "3d96de1b6611735496e8bde9f8fba6cb34839daf2a240e19faa73445b9ba82fb",
+      "path": "diagnostics_13/reconstruct_table13_candidate.py",
+      "scope": "module docstring only; all non-docstring AST nodes unchanged"
+    }
+  ]
+}
