@@ -6,9 +6,9 @@
       "sha256": "654ef2f56e831656d20dec0cd1b5293737c8e7225d7ab174e7762fb8b57193bb"
     },
     {
-      "bytes": 35867,
+      "bytes": 37618,
       "path": "FILE_PROVENANCE_AND_RIGHTS.json",
-      "sha256": "166adaa16e2fef04cb989f610e2b74c3a0e234deb5f88a620e37cc2db1fe72eb"
+      "sha256": "1ee8dd74fd5a02dea09c67a2dcc1a7675d2f0ea16a0d2c2a1779eda92af72971"
     },
     {
       "bytes": 1080,
@@ -21,9 +21,19 @@
       "sha256": "9e0fdbf0f1c87831efab9eb2449ea7076c5e485c056951a0216a5dc3587205b7"
     },
     {
+      "bytes": 10663,
+      "path": "README.md",
+      "sha256": "2aa4ce925e42e1acaf0f3ab3af7f8c24a46e82bfb12cc6bf1e63d6d049ae20bd"
+    },
+    {
       "bytes": 3435,
       "path": "README.txt",
       "sha256": "4183b8d30bf59b20f31e61d21e724f651d8681b37f0d34ccba7770fa0ce13bb9"
+    },
+    {
+      "bytes": 3786,
+      "path": "assets/evidence-flow.svg",
+      "sha256": "9610afd7b691c79caf95757c82e50910bc26364f0694f1d2c5013a723bc7510a"
     },
     {
       "bytes": 282957,

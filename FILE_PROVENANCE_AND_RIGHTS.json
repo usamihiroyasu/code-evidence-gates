@@ -1,4 +1,13 @@
 {
+  "documentation_update": {
+    "added_documentation": [
+      "README.md",
+      "assets/evidence-flow.svg"
+    ],
+    "baseline_artifact_commit": "3425b76a8b091415fbe140eb845ea887203f61ca",
+    "existing_scientific_records_code_and_results_changed": false,
+    "original_release_notes_retained": "README.txt"
+  },
   "files": [
     {
       "applicable_terms": "Author-owned portions only; any third-party original conditions and notices remain applicable.",
@@ -683,6 +692,32 @@
         "current_bytes_equal_source": true,
         "member": "diagnostics_5_14/registration_labels.json",
         "original_member_sha256": "5ba4171f1264e86c8a475139319a0b440b876ec79e36d3282680d5e5eae1d73d"
+      }
+    },
+    {
+      "applicable_terms": "Author-owned documentation only; no change to third-party conditions or existing scientific records.",
+      "author_contributed_portions_license": "CC-BY-4.0",
+      "notice_paths": [],
+      "notice_scope": "New reader guide or qualitative workflow figure; no third-party illustration or new experimental result.",
+      "origin_class": "author_created_reader_documentation_or_explanatory_vector_figure",
+      "path": "README.md",
+      "source": {
+        "baseline_artifact_commit": "3425b76a8b091415fbe140eb845ea887203f61ca",
+        "origin": "Documentation-only presentation of the existing saved-record artifact",
+        "science_payload_added": false
+      }
+    },
+    {
+      "applicable_terms": "Author-owned documentation only; no change to third-party conditions or existing scientific records.",
+      "author_contributed_portions_license": "CC-BY-4.0",
+      "notice_paths": [],
+      "notice_scope": "New reader guide or qualitative workflow figure; no third-party illustration or new experimental result.",
+      "origin_class": "author_created_reader_documentation_or_explanatory_vector_figure",
+      "path": "assets/evidence-flow.svg",
+      "source": {
+        "baseline_artifact_commit": "3425b76a8b091415fbe140eb845ea887203f61ca",
+        "origin": "Documentation-only presentation of the existing saved-record artifact",
+        "science_payload_added": false
       }
     }
   ],
