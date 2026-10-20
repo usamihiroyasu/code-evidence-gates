@@ -703,8 +703,9 @@
       "path": "README.md",
       "source": {
         "baseline_artifact_commit": "3425b76a8b091415fbe140eb845ea887203f61ca",
-        "origin": "Documentation-only presentation of the existing saved-record artifact",
-        "science_payload_added": false
+        "origin": "Documentation-only presentation of the existing saved-record artifact, with public companion preprint links and citation",
+        "science_payload_added": false,
+        "companion_preprint_url": "https://arxiv.org/abs/2610.24609"
       }
     },
     {

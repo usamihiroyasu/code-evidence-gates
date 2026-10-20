@@ -6,9 +6,9 @@
       "sha256": "654ef2f56e831656d20dec0cd1b5293737c8e7225d7ab174e7762fb8b57193bb"
     },
     {
-      "bytes": 37618,
+      "bytes": 37739,
       "path": "FILE_PROVENANCE_AND_RIGHTS.json",
-      "sha256": "1ee8dd74fd5a02dea09c67a2dcc1a7675d2f0ea16a0d2c2a1779eda92af72971"
+      "sha256": "c34bb6f7f0136c1a55a2273961aec7127b9e734b6dd86806de2ab33a0eee3d0d"
     },
     {
       "bytes": 1080,
@@ -21,9 +21,9 @@
       "sha256": "9e0fdbf0f1c87831efab9eb2449ea7076c5e485c056951a0216a5dc3587205b7"
     },
     {
-      "bytes": 10663,
+      "bytes": 11145,
       "path": "README.md",
-      "sha256": "2aa4ce925e42e1acaf0f3ab3af7f8c24a46e82bfb12cc6bf1e63d6d049ae20bd"
+      "sha256": "ddc849c6fddf9f5bae98b405c05f0db89bf57657918d85d31ea05043d6c33736"
     },
     {
       "bytes": 3435,

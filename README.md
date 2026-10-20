@@ -145,6 +145,19 @@ The original-cohort and follow-up records, selected diagnostic populations, and 
 **From Candidate Admission to Task-Level Return: Auditing LLM-Generated Code under Execution Contracts**  
 Hiroyasu Usami, Keisuke Hara, Ayato Tsuboi, and Naohiko Matsuda.
 
+Public preprint: [arXiv:2610.24609](https://arxiv.org/abs/2610.24609) · [PDF](https://arxiv.org/pdf/2610.24609).
+
+```bibtex
+@misc{usami2026candidateadmission,
+  title = {From Candidate Admission to Task-Level Return: Auditing {LLM}-Generated Code under Execution Contracts},
+  author = {Usami, Hiroyasu and Hara, Keisuke and Tsuboi, Ayato and Matsuda, Naohiko},
+  year = {2026},
+  eprint = {2610.24609},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24609}
+}
+```
+
 When referring to this artifact, include the repository URL and the [fixed artifact commit](https://github.com/usamihiroyasu/code-evidence-gates/tree/3425b76a8b091415fbe140eb845ea887203f61ca). Documentation updates do not replace that manuscript-cited snapshot.
 
 For a reproducibility question, please [open an issue](https://github.com/usamihiroyasu/code-evidence-gates/issues) with the artifact commit, Python/SQLite versions, command, and relevant output or error. Please omit credentials and non-public data.
