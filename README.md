@@ -6,7 +6,7 @@
 
 A research artifact for tracing how **candidate admission** relates to the **candidate returned for a task**. It provides saved outcome records, reconstruction scripts, and file-level provenance for selected tables and diagnostics in the companion manuscript.
 
-[Quickstart](#quickstart) · [Table guide](#from-paper-tables-to-files) · [Repository map](#repository-map) · [Scope](#what-this-artifact-reconstructs) · [Integrity and licenses](#integrity-and-licenses)
+[Video overview](#research-overview-video) · [Quickstart](#quickstart) · [Table guide](#from-paper-tables-to-files) · [Repository map](#repository-map) · [Scope](#what-this-artifact-reconstructs) · [Integrity and licenses](#integrity-and-licenses)
 
 ![Saved candidate records feed admission/suite-label accounting and task-level selection/abstention accounting, which produce reconstructed counts and diagnostics.](assets/evidence-flow.svg)
 
@@ -22,6 +22,16 @@ This artifact connects the two views within saved candidate pools from two separ
 
 The figure describes the reconstruction workflow, not a new model-generation or program-execution pipeline.
 
+## Research overview video
+
+[![Watch the silent research overview: candidate admission and task-level return are different outcomes.](assets/research-overview.png)](media/Execution_Contracts_Research_Overview_Silent_1080p.mp4)
+
+**Silent · approximately 1:53 · 1080p · English on-screen text.** Click the thumbnail to open the [MP4 in this repository](media/Execution_Contracts_Research_Overview_Silent_1080p.mp4).
+
+**Why it matters:** admitting more suite-passing candidates need not improve task-level return. The video explains this distinction for the studied saved candidate pools, a fixed first-admitted selector, and a pinned independent test suite. Its moving blocks are illustrative, not additional measured samples. The findings do not establish a universal performance effect or downstream training improvement.
+
+The overview and its actual-frame thumbnail are explanatory documentation, not new experiments. For the full study and its exact artifact version, refer to the manuscript and the pinned artifact snapshot.
+
 ## Quickstart
 
 ### 1. Obtain the manuscript-cited snapshot
@@ -32,7 +42,7 @@ cd code-evidence-gates
 git checkout --detach 3425b76a8b091415fbe140eb845ea887203f61ca
 ```
 
-The manuscript-cited [artifact snapshot](https://github.com/usamihiroyasu/code-evidence-gates/tree/3425b76a8b091415fbe140eb845ea887203f61ca) remains fixed. The latest README and explanatory figure are documentation updates; use the pinned snapshot when checking the manuscript's exact artifact version.
+The manuscript-cited [artifact snapshot](https://github.com/usamihiroyasu/code-evidence-gates/tree/3425b76a8b091415fbe140eb845ea887203f61ca) remains fixed. The latest README, explanatory figure, and video overview are documentation updates; use the pinned snapshot when checking the manuscript's exact artifact version.
 
 ### 2. Check the requirements
 
@@ -110,6 +120,8 @@ core/
   rights/                        Upstream license notices
 diagnostics_5_14/                 Exception/registration/assertion records
 diagnostics_13/                   Saved output pairs and policy reconstruction
+assets/research-overview.png      Actual-frame thumbnail for the video overview
+media/                           Silent research overview MP4
 MANIFEST.json                    File-level sizes and SHA-256 hashes
 FILE_PROVENANCE_AND_RIGHTS.json   File-specific origin and license scope
 CODE_EQUIVALENCE.json             Historical/current script-header binding

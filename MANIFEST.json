@@ -6,9 +6,9 @@
       "sha256": "654ef2f56e831656d20dec0cd1b5293737c8e7225d7ab174e7762fb8b57193bb"
     },
     {
-      "bytes": 37739,
+      "bytes": 39908,
       "path": "FILE_PROVENANCE_AND_RIGHTS.json",
-      "sha256": "c34bb6f7f0136c1a55a2273961aec7127b9e734b6dd86806de2ab33a0eee3d0d"
+      "sha256": "128a2c2d2edccb8591195d8ccdc2449fb42ac650183bec184ef79d9e37c402da"
     },
     {
       "bytes": 1080,
@@ -21,9 +21,9 @@
       "sha256": "9e0fdbf0f1c87831efab9eb2449ea7076c5e485c056951a0216a5dc3587205b7"
     },
     {
-      "bytes": 11145,
+      "bytes": 12382,
       "path": "README.md",
-      "sha256": "ddc849c6fddf9f5bae98b405c05f0db89bf57657918d85d31ea05043d6c33736"
+      "sha256": "1f885db9f1bfaf6d259d33f00d21c40ac7ea676d13fb25eb8c30c49514cc0984"
     },
     {
       "bytes": 3435,
@@ -34,6 +34,11 @@
       "bytes": 3786,
       "path": "assets/evidence-flow.svg",
       "sha256": "9610afd7b691c79caf95757c82e50910bc26364f0694f1d2c5013a723bc7510a"
+    },
+    {
+      "bytes": 304554,
+      "path": "assets/research-overview.png",
+      "sha256": "ab261242a016c5002328ff7bb5b9a2de08255ab761ab0e61e2b8cda4f7589933"
     },
     {
       "bytes": 282957,
@@ -209,6 +214,11 @@
       "bytes": 99127,
       "path": "diagnostics_5_14/registration_labels.json",
       "sha256": "5ba4171f1264e86c8a475139319a0b440b876ec79e36d3282680d5e5eae1d73d"
+    },
+    {
+      "bytes": 4941882,
+      "path": "media/Execution_Contracts_Research_Overview_Silent_1080p.mp4",
+      "sha256": "97ba8cb773cfb8e0080f3f58b717fbf3b82f0c3d1f827ed58c78045dd6bdc5ec"
     }
   ],
   "schema": "saved-record-artifact-manifest-v1",
