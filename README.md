@@ -6,7 +6,7 @@
 
 A research artifact for tracing how **candidate admission** relates to the **candidate returned for a task**. It provides saved outcome records, reconstruction scripts, and file-level provenance for selected tables and diagnostics in the companion manuscript.
 
-[Video overview](#research-overview-video) · [Quickstart](#quickstart) · [Table guide](#from-paper-tables-to-files) · [Repository map](#repository-map) · [Scope](#what-this-artifact-reconstructs) · [Integrity and licenses](#integrity-and-licenses)
+[Animated overview](#research-overview) · [Quickstart](#quickstart) · [Table guide](#from-paper-tables-to-files) · [Repository map](#repository-map) · [Scope](#what-this-artifact-reconstructs) · [Integrity and licenses](#integrity-and-licenses)
 
 ![Saved candidate records feed admission/suite-label accounting and task-level selection/abstention accounting, which produce reconstructed counts and diagnostics.](assets/evidence-flow.svg)
 
@@ -22,11 +22,11 @@ This artifact connects the two views within saved candidate pools from two separ
 
 The figure describes the reconstruction workflow, not a new model-generation or program-execution pipeline.
 
-## Research overview video
+## Research overview
 
-[![Watch the silent research overview: candidate admission and task-level return are different outcomes.](assets/research-overview.png)](media/Execution_Contracts_Research_Overview_Silent_1080p.mp4)
+![Candidate admission and task-level return](media/research-overview.gif)
 
-**Silent · approximately 1:53 · 1080p · English on-screen text.** Click the thumbnail to open the [MP4 in this repository](media/Execution_Contracts_Research_Overview_Silent_1080p.mp4).
+**1:53 · Animated GIF · Silent · English on-screen text.** [Open the 1080p MP4](media/Execution_Contracts_Research_Overview_Silent_1080p.mp4).
 
 **Why it matters:** admitting more suite-passing candidates need not improve task-level return. The video explains this distinction for the studied saved candidate pools, a fixed first-admitted selector, and a pinned independent test suite. Its moving blocks are illustrative, not additional measured samples. The findings do not establish a universal performance effect or downstream training improvement.
 
@@ -120,8 +120,8 @@ core/
   rights/                        Upstream license notices
 diagnostics_5_14/                 Exception/registration/assertion records
 diagnostics_13/                   Saved output pairs and policy reconstruction
-assets/research-overview.png      Actual-frame thumbnail for the video overview
-media/                           Silent research overview MP4
+assets/research-overview.png      Actual-frame thumbnail
+media/                           Animated overview GIF and silent MP4
 MANIFEST.json                    File-level sizes and SHA-256 hashes
 FILE_PROVENANCE_AND_RIGHTS.json   File-specific origin and license scope
 CODE_EQUIVALENCE.json             Historical/current script-header binding

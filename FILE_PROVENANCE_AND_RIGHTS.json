@@ -734,7 +734,10 @@
         "origin": "Author-created silent research overview of the existing saved-pool, fixed-selector and pinned-suite findings",
         "science_payload_added": false,
         "duration_seconds": 112.8,
-        "pixels": [1920, 1080],
+        "pixels": [
+          1920,
+          1080
+        ],
         "audio_streams": 0,
         "source_media_sha256": "97ba8cb773cfb8e0080f3f58b717fbf3b82f0c3d1f827ed58c78045dd6bdc5ec"
       }
@@ -753,6 +756,19 @@
         "source_frame": 402,
         "source_time_seconds": 13.4,
         "source_media_sha256": "ab261242a016c5002328ff7bb5b9a2de08255ab761ab0e61e2b8cda4f7589933",
+        "science_payload_added": false
+      }
+    },
+    {
+      "applicable_terms": "Author-owned explanatory documentation only; third-party terms and existing upstream notices remain unchanged.",
+      "author_contributed_portions_license": "CC-BY-4.0",
+      "notice_paths": [],
+      "notice_scope": "Full-length GIF conversion of the accompanying research overview.",
+      "origin_class": "format_conversion_of_explanatory_media",
+      "path": "media/research-overview.gif",
+      "source": {
+        "source_video": "media/Execution_Contracts_Research_Overview_Silent_1080p.mp4",
+        "source_video_sha256": "97ba8cb773cfb8e0080f3f58b717fbf3b82f0c3d1f827ed58c78045dd6bdc5ec",
         "science_payload_added": false
       }
     }
